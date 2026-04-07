@@ -88,6 +88,17 @@
     "display_link": "https://github.com/traceloop/openllmetry"
   },
   {
+  "name": "Monocle2AI",
+  "category": "open_source",
+  "focus": "Agent observability & debugging",
+  "official_url": "https://monocle2ai.github.io/",
+  "github_repo": "monocle2ai/monocle",
+  "docs_url": "https://monocle2ai.github.io/docs",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/monocle2ai/monocle"
+},
+  {
     "name": "LangSmith",
     "category": "paid",
     "focus": "Full stack",

@@ -79,7 +79,8 @@ AgentOps is the practice of managing AI agents in production environments. It ty
 | OpenLIT | ⭐ ~2k+ | https://github.com/openlit/openlit |
 | AgentOps SDK | ⭐ ~2k+ | https://github.com/AgentOps-AI/agentops |
 | Opik (Comet) | ⭐ ~1k+ | https://github.com/comet-ml/opik |
-| OpenLLMetry | ⭐ ~1k+ | https://github.com/traceloop/openllmetry |
+| OpenLLMetry | ⭐ ~7k+ | https://github.com/traceloop/openllmetry |
+| Monocle2AI | ⭐ ~70+ | https://github.com/monocle2ai/monocle |
 
 Stars are approximate and evolve over time.
 
