@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Langfuse",
+    "category": "open_source",
+    "focus": "Tracing & analytics",
+    "official_url": "https://langfuse.com/",
+    "github_repo": "langfuse/langfuse",
+    "docs_url": "https://langfuse.com/docs",
+    "pricing_label": "$29/mo",
+    "pricing_url": "https://langfuse.com/pricing",
+    "display_link": "https://github.com/langfuse/langfuse"
+  },
+  {
+    "name": "Phoenix (Arize)",
+    "category": "open_source",
+    "focus": "Debugging & evaluation",
+    "official_url": "https://phoenix.arize.com/",
+    "github_repo": "Arize-ai/phoenix",
+    "docs_url": "https://docs.arize.com/phoenix",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/Arize-ai/phoenix"
+  },
+  {
+    "name": "Helicone",
+    "category": "open_source",
+    "focus": "Gateway & observability",
+    "official_url": "https://www.helicone.ai/",
+    "github_repo": "Helicone/helicone",
+    "docs_url": "https://docs.helicone.ai/",
+    "pricing_label": "$79+",
+    "pricing_url": "https://www.helicone.ai/pricing",
+    "display_link": "https://github.com/Helicone/helicone"
+  },
+  {
+    "name": "Weave (W&B)",
+    "category": "open_source",
+    "focus": "ML + LLM observability",
+    "official_url": "https://wandb.ai/site/weave/",
+    "github_repo": "wandb/weave",
+    "docs_url": "https://weave-docs.wandb.ai/",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/wandb/weave"
+  },
+  {
+    "name": "OpenLIT",
+    "category": "open_source",
+    "focus": "OpenTelemetry-native observability",
+    "official_url": "https://openlit.io/",
+    "github_repo": "openlit/openlit",
+    "docs_url": "https://docs.openlit.io/",
+    "pricing_label": "",
+    "pricing_url": "https://openlit.io/pricing",
+    "display_link": "https://github.com/openlit/openlit"
+  },
+  {
+    "name": "AgentOps SDK",
+    "category": "open_source",
+    "focus": "Agent-native tracking",
+    "official_url": "https://www.agentops.ai/",
+    "github_repo": "AgentOps-AI/agentops",
+    "docs_url": "https://docs.agentops.ai/",
+    "pricing_label": "",
+    "pricing_url": "https://www.agentops.ai/pricing",
+    "display_link": "https://github.com/AgentOps-AI/agentops"
+  },
+  {
+    "name": "Opik (Comet)",
+    "category": "open_source",
+    "focus": "Evaluation",
+    "official_url": "https://www.comet.com/site/products/opik/",
+    "github_repo": "comet-ml/opik",
+    "docs_url": "https://www.comet.com/docs/opik/",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/comet-ml/opik"
+  },
+  {
+    "name": "OpenLLMetry",
+    "category": "open_source",
+    "focus": "OpenTelemetry for LLMs",
+    "official_url": "https://www.traceloop.com/openllmetry",
+    "github_repo": "traceloop/openllmetry",
+    "docs_url": "https://www.traceloop.com/docs/openllmetry",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/traceloop/openllmetry"
+  },
+  {
+    "name": "LangSmith",
+    "category": "paid",
+    "focus": "Full stack",
+    "official_url": "https://smith.langchain.com/",
+    "github_repo": "",
+    "docs_url": "https://docs.smith.langchain.com/",
+    "pricing_label": "~$39/mo",
+    "pricing_url": "https://www.langchain.com/pricing",
+    "display_link": "https://smith.langchain.com"
+  },
+  {
+    "name": "LangWatch",
+    "category": "paid",
+    "focus": "Evaluation + observability",
+    "official_url": "https://langwatch.ai/",
+    "github_repo": "langwatch/langwatch",
+    "docs_url": "https://docs.langwatch.ai/",
+    "pricing_label": "€59+",
+    "pricing_url": "https://langwatch.ai/pricing",
+    "display_link": "https://langwatch.ai"
+  },
+  {
+    "name": "Braintrust",
+    "category": "paid",
+    "focus": "Advanced evaluation workflows",
+    "official_url": "https://www.braintrustdata.com/",
+    "github_repo": "braintrustdata/braintrust-sdk-python",
+    "docs_url": "https://www.braintrust.dev/docs",
+    "pricing_label": "~$249/mo",
+    "pricing_url": "https://www.braintrust.dev/pricing",
+    "display_link": "https://www.braintrustdata.com"
+  },
+  {
+    "name": "Datadog LLM",
+    "category": "paid",
+    "focus": "Enterprise observability",
+    "official_url": "https://www.datadoghq.com/product/ai/llm-observability/",
+    "github_repo": "",
+    "docs_url": "https://docs.datadoghq.com/llm_observability/",
+    "pricing_label": "~$8 / 10K req",
+    "pricing_url": "https://www.datadoghq.com/pricing/",
+    "display_link": "https://www.datadoghq.com"
+  },
+  {
+    "name": "Helicone Cloud",
+    "category": "paid",
+    "focus": "Managed gateway & observability",
+    "official_url": "https://www.helicone.ai/",
+    "github_repo": "Helicone/helicone",
+    "docs_url": "https://docs.helicone.ai/",
+    "pricing_label": "~$79+",
+    "pricing_url": "https://www.helicone.ai/pricing",
+    "display_link": "https://www.helicone.ai"
+  },
+  {
+    "name": "Confident AI",
+    "category": "paid",
+    "focus": "Evaluation-first teams",
+    "official_url": "https://www.confident-ai.com/",
+    "github_repo": "",
+    "docs_url": "https://docs.confident-ai.com/",
+    "pricing_label": "~$19.99",
+    "pricing_url": "https://www.confident-ai.com/pricing",
+    "display_link": "https://www.confident-ai.com"
+  },
+  {
+    "name": "HoneyHive",
+    "category": "paid",
+    "focus": "Enterprise use cases",
+    "official_url": "https://www.honeyhive.ai/",
+    "github_repo": "honeyhiveai/python-sdk",
+    "docs_url": "https://docs.honeyhive.ai/",
+    "pricing_label": "Custom",
+    "pricing_url": "https://www.honeyhive.ai/pricing",
+    "display_link": "https://www.honeyhive.ai"
+  },
+  {
+    "name": "Langfuse Cloud",
+    "category": "paid",
+    "focus": "Hybrid OSS + SaaS",
+    "official_url": "https://langfuse.com/",
+    "github_repo": "langfuse/langfuse",
+    "docs_url": "https://langfuse.com/docs",
+    "pricing_label": "~$29",
+    "pricing_url": "https://langfuse.com/pricing",
+    "display_link": "https://langfuse.com"
+  }
+]
