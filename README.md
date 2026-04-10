@@ -30,6 +30,7 @@ Each week this repository highlights:
 - [What is AgentOps](#what-is-agentops)
 - [AgentOps Landscape (2026)](#agentops-landscape-2026)
   - [Open Source Tools](#open-source-tools)
+  - [Star History](#star-history)
   - [Paid / SaaS Tools](#paid--saas-tools)
 - [Key Insights](#key-insights)
 - [How to Choose](#how-to-choose)
@@ -84,6 +85,10 @@ AgentOps is the practice of managing AI agents in production environments. It ty
 | Dunetrace | ⭐ ~20+ | https://github.com/dunetrace/dunetrace |
 
 Stars are approximate and evolve over time.
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=langfuse/langfuse,Arize-ai/phoenix,Helicone/helicone,wandb/weave,openlit/openlit,AgentOps-AI/agentops,comet-ml/opik,traceloop/openllmetry,monocle2ai/monocle,dunetrace/dunetrace&type=Date)](https://star-history.com/#langfuse/langfuse&Arize-ai/phoenix&Helicone/helicone&wandb/weave&openlit/openlit&AgentOps-AI/agentops&comet-ml/opik&traceloop/openllmetry&monocle2ai/monocle&dunetrace/dunetrace&Date)
 
 ---
 
