@@ -98,6 +98,17 @@
   "pricing_url": "",
   "display_link": "https://github.com/monocle2ai/monocle"
 },
+{
+  "name": "Dunetrace",
+  "category": "open_source",
+  "focus": "Runtime observability for AI agents",
+  "official_url": "https://github.com/dunetrace/dunetrace",
+  "github_repo": "dunetrace/dunetrace",
+  "docs_url": "https://github.com/dunetrace/dunetrace/tree/main/docs",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/dunetrace/dunetrace"
+},
   {
     "name": "LangSmith",
     "category": "paid",

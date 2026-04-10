@@ -18,7 +18,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-04-06  
+**Last generated:** 2026-04-09  
 **Automation:** GitHub Actions + GitHub API  
 <!-- META:END -->
 
@@ -72,15 +72,16 @@ AgentOps is the practice of managing AI agents in production environments. It ty
 
 | Tool | Stars | Links |
 |------|------|------|
-| Langfuse | ⭐ ~10k+ | https://github.com/langfuse/langfuse |
-| Phoenix (Arize) | ⭐ ~6k+ | https://github.com/Arize-ai/phoenix |
-| Helicone | ⭐ ~4k+ | https://github.com/Helicone/helicone |
-| Weave (W&B) | ⭐ ~3k+ | https://github.com/wandb/weave |
+| Langfuse | ⭐ ~24k+ | https://github.com/langfuse/langfuse |
+| Phoenix (Arize) | ⭐ ~9k+ | https://github.com/Arize-ai/phoenix |
+| Helicone | ⭐ ~5k+ | https://github.com/Helicone/helicone |
+| Weave (W&B) | ⭐ ~1k+ | https://github.com/wandb/weave |
 | OpenLIT | ⭐ ~2k+ | https://github.com/openlit/openlit |
-| AgentOps SDK | ⭐ ~2k+ | https://github.com/AgentOps-AI/agentops |
-| Opik (Comet) | ⭐ ~1k+ | https://github.com/comet-ml/opik |
-| OpenLLMetry | ⭐ ~7k+ | https://github.com/traceloop/openllmetry |
+| AgentOps SDK | ⭐ ~5k+ | https://github.com/AgentOps-AI/agentops |
+| Opik (Comet) | ⭐ ~18k+ | https://github.com/comet-ml/opik |
+| OpenLLMetry | ⭐ ~6k+ | https://github.com/traceloop/openllmetry |
 | Monocle2AI | ⭐ ~70+ | https://github.com/monocle2ai/monocle |
+| Dunetrace | ⭐ ~20+ | https://github.com/dunetrace/dunetrace |
 
 Stars are approximate and evolve over time.
 
