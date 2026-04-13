@@ -32,6 +32,7 @@ Each week this repository highlights:
   - [Open Source Tools](#open-source-tools)
   - [Star History](#star-history)
   - [Paid / SaaS Tools](#paid--saas-tools)
+- [Feature Benchmark](#feature-benchmark)
 - [Key Insights](#key-insights)
 - [How to Choose](#how-to-choose)
 - [Architecture Layers](#architecture-layers)
@@ -111,12 +112,21 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
+| LiteLLM | ⭐ 43.2k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 24.8k | https://github.com/langfuse/langfuse |
+| Promptfoo | ⭐ 20.0k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 18.8k | https://github.com/comet-ml/opik |
+| AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
+| DeepEval | ⭐ 14.8k | https://github.com/confident-ai/deepeval |
+| RAGAS | ⭐ 13.4k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 9.3k | https://github.com/Arize-ai/phoenix |
+| Evidently AI | ⭐ 7.4k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.0k | https://github.com/traceloop/openllmetry |
+| Guardrails AI | ⭐ 6.7k | https://github.com/guardrails-ai/guardrails |
 | Helicone | ⭐ 5.5k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.5k | https://github.com/AgentOps-AI/agentops |
+| Agenta | ⭐ 4.0k | https://github.com/agenta-ai/agenta |
+| Laminar | ⭐ 2.8k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Monocle2AI | ⭐ 74 | https://github.com/monocle2ai/monocle |
@@ -127,7 +137,7 @@ Stars updated daily via GitHub Actions.
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=langfuse/langfuse,Arize-ai/phoenix,Helicone/helicone,wandb/weave,openlit/openlit,AgentOps-AI/agentops,comet-ml/opik,traceloop/openllmetry,monocle2ai/monocle,dunetrace/dunetrace&type=Date)](https://star-history.com/#langfuse/langfuse&Arize-ai/phoenix&Helicone/helicone&wandb/weave&openlit/openlit&AgentOps-AI/agentops&comet-ml/opik&traceloop/openllmetry&monocle2ai/monocle&dunetrace/dunetrace&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=langfuse/langfuse,Arize-ai/phoenix,Helicone/helicone,wandb/weave,openlit/openlit,AgentOps-AI/agentops,comet-ml/opik,traceloop/openllmetry,monocle2ai/monocle,dunetrace/dunetrace,BerriAI/litellm,confident-ai/deepeval,explodinggradients/ragas,promptfoo/promptfoo,evidentlyai/evidently,guardrails-ai/guardrails&type=Date)](https://star-history.com/#langfuse/langfuse&Arize-ai/phoenix&Helicone/helicone&wandb/weave&openlit/openlit&AgentOps-AI/agentops&comet-ml/opik&traceloop/openllmetry&monocle2ai/monocle&dunetrace/dunetrace&BerriAI/litellm&confident-ai/deepeval&explodinggradients/ragas&promptfoo/promptfoo&evidentlyai/evidently&guardrails-ai/guardrails&Date)
 
 ---
 
@@ -144,7 +154,81 @@ Stars updated daily via GitHub Actions.
 | Confident AI | 💰 ~$19.99 | https://www.confident-ai.com |
 | HoneyHive | 💰 Custom | https://www.honeyhive.ai |
 | Langfuse Cloud | 💰 ~$29 | https://langfuse.com |
+| Latitude | 💰 Free trial + usage-based | https://latitude.so |
+| Maxim AI | 💰 Custom | https://www.getmaxim.ai |
+| Galileo | 💰 From $5K/mo (enterprise) | https://www.rungalileo.io |
+| Okahu Cloud | 💰 Custom | https://www.okahu.ai |
+| Fiddler AI | 💰 Custom | https://www.fiddler.ai |
+| Patronus AI | 💰 Custom | https://www.patronus.ai |
+| Coval | 💰 Custom | https://www.coval.dev |
+| Vellum | 💰 Free (Pro: $25/mo) | https://www.vellum.ai |
+| RagaAI Catalyst | 💰 Custom | https://raga.ai |
+| Portkey | 💰 Free tier + usage-based | https://portkey.ai |
 <!-- PAID_TABLE:END -->
+
+---
+
+## Feature Benchmark
+
+Coverage of the 8 core AgentOps capabilities per tool.
+
+| Column | Description |
+|--------|-------------|
+| **Tracing** | Captures spans/traces of agent execution (LLM calls, tool invocations, reasoning steps) |
+| **Monitoring** | Real-time dashboards — latency, error rates, token usage, session metrics |
+| **Evaluation** | Automated quality scoring of agent outputs and trajectories (LLM-as-Judge, metrics) |
+| **Prompt Mgmt** | Prompt versioning, A/B testing, injection detection |
+| **Cost Tracking** | Token-level spend tracking across providers and sessions |
+| **Guardrails** | Input/output validation and safety constraints at runtime |
+| **Feedback** | Collection of explicit/implicit user feedback attached to traces |
+| **Multi-agent** | Native support for tracing/evaluating multi-agent orchestration |
+
+### Open Source
+
+| Tool | Tracing | Monitoring | Evaluation | Prompt Mgmt | Cost Tracking | Guardrails | Feedback | Multi-agent |
+|------|:-------:|:----------:|:----------:|:-----------:|:-------------:|:----------:|:--------:|:-----------:|
+| LiteLLM | | ✅ | | | ✅ | | | ✅ |
+| Langfuse | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| Promptfoo | | | ✅ | ✅ | | ✅ | | |
+| Opik (Comet) | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| AgentNeo | ✅ | ✅ | ✅ | | ✅ | | | ✅ |
+| DeepEval | | | ✅ | | | | | |
+| RAGAS | | | ✅ | | | | | |
+| Phoenix (Arize) | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
+| Evidently AI | | ✅ | ✅ | | | | | |
+| OpenLLMetry | ✅ | ✅ | | | ✅ | | | ✅ |
+| Guardrails AI | | | | | | ✅ | | |
+| Helicone | ✅ | ✅ | | | ✅ | | | |
+| AgentOps SDK | ✅ | ✅ | | | ✅ | | ✅ | ✅ |
+| Agenta | | | ✅ | ✅ | | | ✅ | |
+| Laminar | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| OpenLIT | ✅ | ✅ | | | ✅ | | | ✅ |
+| Weave (W&B) | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
+| Monocle2AI | ✅ | ✅ | | | | | | ✅ |
+| Dunetrace | ✅ | ✅ | | | | | | ✅ |
+
+### Paid / SaaS
+
+| Tool | Tracing | Monitoring | Evaluation | Prompt Mgmt | Cost Tracking | Guardrails | Feedback | Multi-agent |
+|------|:-------:|:----------:|:----------:|:-----------:|:-------------:|:----------:|:--------:|:-----------:|
+| LangSmith | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| LangWatch | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Braintrust | ✅ | | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| Datadog LLM | ✅ | ✅ | | | ✅ | | | ✅ |
+| Helicone Cloud | ✅ | ✅ | | | ✅ | | | |
+| Confident AI | | | ✅ | | | | | |
+| HoneyHive | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| Langfuse Cloud | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| Latitude | ✅ | ✅ | ✅ | ✅ | ✅ | | ✅ | ✅ |
+| Maxim AI | ✅ | ✅ | ✅ | ✅ | | | ✅ | ✅ |
+| Galileo | ✅ | ✅ | ✅ | | | ✅ | | ✅ |
+| Okahu Cloud | ✅ | ✅ | | | | | | ✅ |
+| Fiddler AI | ✅ | ✅ | ✅ | | | ✅ | | ✅ |
+| Patronus AI | | | ✅ | | | ✅ | | |
+| Coval | | | ✅ | | | | | ✅ |
+| Vellum | ✅ | ✅ | ✅ | ✅ | | | | ✅ |
+| RagaAI Catalyst | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
+| Portkey | ✅ | ✅ | | | ✅ | ✅ | | ✅ |
 
 ---
 
@@ -162,33 +246,50 @@ Observed patterns:
 
 ## How to Choose
 
-For getting started:
-- Langfuse  
-- Phoenix  
+**Getting started (OSS, free):**
+- Langfuse — tracing + analytics out of the box
+- Phoenix — debugging & evaluation with a local UI
+- AgentOps SDK — drop-in agent tracking with minimal setup
 
-For evaluation-focused workflows:
-- Braintrust  
-- LangWatch  
-- Opik  
+**Evaluation-focused:**
+- DeepEval / RAGAS — open source, 50+ metrics, great for CI pipelines
+- Braintrust / LangWatch — managed, strong eval workflow tooling
+- Opik — evaluation + tracing in one OSS package
+- Promptfoo — red teaming & regression testing via CLI
 
-For production environments:
-- Datadog LLM  
-- LangSmith  
+**Production & enterprise:**
+- LangSmith — full-stack tracing & evaluation for LangChain-heavy teams
+- Datadog LLM — enterprise-grade, existing Datadog customers
+- Galileo — hallucination detection + real-time guardrails
+- Fiddler AI — AI governance and compliance at scale
 
-For gateway and control:
-- Helicone  
+**Gateway, routing & cost control:**
+- LiteLLM — unified OSS gateway, 100+ providers, cost tracking
+- Helicone — OSS proxy with caching and analytics
+- Portkey — multi-provider routing + guardrails + observability
+
+**Guardrails & safety:**
+- Guardrails AI — OSS input/output validation framework
+- Galileo — real-time production guardrails
+- Patronus AI — automated hallucination detection
+
+**ML monitoring & drift:**
+- Evidently AI — OSS data/model drift detection
+- Weave (W&B) — ML experiment tracking extended to LLMs
 
 ---
 
 ## Architecture Layers
 
-The AgentOps ecosystem is converging into three main layers:
+The AgentOps ecosystem spans five layers:
 
-| Layer | Tools |
-|------|------|
-| Tracing | Langfuse, Helicone |
-| Evaluation | Braintrust, Opik |
-| Full Stack | LangSmith, Datadog |
+| Layer | Purpose | Tools |
+|------|---------|------|
+| **Gateway & Routing** | Proxy, cost control, multi-provider | LiteLLM, Helicone, Portkey |
+| **Tracing & Observability** | Spans, traces, session replay | Langfuse, Phoenix, OpenLIT, OpenLLMetry, Laminar, AgentOps SDK, Monocle2AI |
+| **Evaluation** | Quality scoring, regression, red-teaming | DeepEval, RAGAS, Promptfoo, Opik, Braintrust, Agenta |
+| **Guardrails & Safety** | Input/output validation, hallucination detection | Guardrails AI, Galileo, Patronus AI |
+| **Monitoring & Drift** | Model drift, cost tracking, data quality | Evidently AI, Weave (W&B), Datadog LLM |
 
 ---
 
