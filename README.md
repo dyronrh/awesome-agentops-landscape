@@ -27,7 +27,7 @@ Each week this repository highlights:
 ## Table of Contents
 
 - [Why AgentOps](#why-agentops)
-- [What is AgentOps](#what-is-agentops)
+- [What is AgentOps?](#what-is-agentops)
 - [AgentOps Landscape (2026)](#agentops-landscape-2026)
   - [Open Source Tools](#open-source-tools)
   - [Star History](#star-history)
@@ -56,14 +56,51 @@ AgentOps addresses these challenges by introducing operational discipline around
 
 ---
 
-## What is AgentOps
+## What is AgentOps?
 
-AgentOps is the practice of managing AI agents in production environments. It typically includes:
+**AgentOps** is the convergence of **DevOps**, **MLOps**, and **LLMOps** principles into a specialized operational discipline for autonomous LLM-powered agents. While LLMOps manages the lifecycle of individual model calls and prompt pipelines, AgentOps goes further — it governs the entire lifecycle of agents that reason, plan, invoke tools, coordinate with other agents, and evolve over time.
 
-- Tracing: understanding execution flows step by step  
-- Observability: logs, metrics, and system behavior  
-- Evaluation: measuring output quality and correctness  
-- Cost tracking: monitoring token usage and spend  
+> *"AgentOps extends conventional DevOps/AIOps principles, introducing specialized stages, metrics, taxonomies, and architectures tailored to the stochastic and semantically rich behaviors of agentic AI systems."*  
+> — Wang et al., 2025
+
+### Core Capabilities
+
+| Capability | Description |
+|---|---|
+| **Tracing** | Every agent execution is captured as a **trace** — a structured tree of **spans** representing individual units of work: LLM calls, tool invocations, retrieval steps, reasoning chains, and inter-agent messages. Built on **OpenTelemetry** (`gen_ai.*` semantic conventions), traces make the full decision path visible and reproducible. |
+| **Monitoring** | Real-time tracking of latency, token cost, error rates, tool success rates, and session-level statistics across single and multi-agent deployments. |
+| **Evaluation** | Multi-dimensional assessment of agent behavior: (1) **Final response** quality, (2) **Step-level** evaluation of individual tool selections, and (3) **Trajectory evaluation** — whether the agent followed the expected sequence of actions to reach the goal. |
+| **Agent-as-Judge (LLM-as-Judge)** | An LLM is used as an automated evaluator to score agent outputs and trajectories against defined rubrics — covering correctness, tool usage accuracy, planning quality, parameter extraction, and reflection — scaling evaluation without constant human annotation. |
+| **Prompt Management** | Versioning, A/B testing, and security scanning (injection detection, secret leak prevention) of prompts across agent configurations. |
+| **Feedback Loops** | Collection of explicit (ratings, thumbs up/down) and implicit (click-through, acceptance rates) feedback, attached to execution traces to drive continuous improvement and fine-tuning. |
+| **Guardrails & Governance** | Predefined safety constraints, fallback paths, and escalation rules that limit unsafe tool usage and keep agents aligned with business goals and compliance requirements. |
+
+### Why AgentOps is Different from LLMOps
+
+| Dimension | LLMOps | AgentOps |
+|---|---|---|
+| **Scope** | Single LLM calls, prompt pipelines | Multi-step reasoning, tool chains, agent-to-agent workflows |
+| **Execution** | Stateless, short-lived | Stateful, long-running, self-evolving |
+| **Evaluation unit** | Input/output quality | Final response + step correctness + trajectory |
+| **Observability** | Token counts, latency | Traces, spans, reasoning graphs, memory state |
+| **Accountability** | Model provider | Shared: agent owner, FM provider, tool providers |
+
+### Technical Foundation
+
+AgentOps platforms are instrumented via **OpenTelemetry**, where each agent session produces a **trace** composed of nested **spans** — one per LLM call, tool invocation, retrieval operation, or reasoning step. These spans capture token usage, latency, inputs/outputs, and evaluation scores, and are exported to backends like Jaeger, Langfuse, or LangSmith. **Agent-as-Judge** evaluators run asynchronously over these traces to automatically assess trajectory accuracy and output quality at scale.
+
+### Key Challenges AgentOps Addresses
+
+- **Non-determinism**: same input → different outputs across runs
+- **Autonomy risk**: unintended tool selection or unsafe actions
+- **Complex pipelines**: multi-agent orchestration with shared accountability
+- **Continuous evolution**: agents that self-adapt through feedback and fine-tuning
+- **Cost visibility**: token-level spend tracking across long multi-step sessions
+
+---
+
+> *Primary reference: Dong, Lu & Zhu — ["AgentOps: Enabling Observability of LLM Agents"](https://arxiv.org/abs/2411.05285) (CSIRO, 2024)*  
+> *Also informed by: MLflow LLMOps docs, Arize AI agent observability, OpenTelemetry GenAI SIG semantic conventions, Wang et al. (2025), and industry practice as of 2026.*
 
 ---
 
