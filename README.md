@@ -18,8 +18,8 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-04-09  
-**Automation:** GitHub Actions + GitHub API  
+**Last generated:** 2026-04-13  
+**Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
 ---
@@ -108,20 +108,22 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 
 ### Open Source Tools
 
+<!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| Langfuse | ⭐ ~24k+ | https://github.com/langfuse/langfuse |
-| Phoenix (Arize) | ⭐ ~9k+ | https://github.com/Arize-ai/phoenix |
-| Helicone | ⭐ ~5k+ | https://github.com/Helicone/helicone |
-| Weave (W&B) | ⭐ ~1k+ | https://github.com/wandb/weave |
-| OpenLIT | ⭐ ~2k+ | https://github.com/openlit/openlit |
-| AgentOps SDK | ⭐ ~5k+ | https://github.com/AgentOps-AI/agentops |
-| Opik (Comet) | ⭐ ~18k+ | https://github.com/comet-ml/opik |
-| OpenLLMetry | ⭐ ~6k+ | https://github.com/traceloop/openllmetry |
-| Monocle2AI | ⭐ ~70+ | https://github.com/monocle2ai/monocle |
-| Dunetrace | ⭐ ~20+ | https://github.com/dunetrace/dunetrace |
+| Langfuse | ⭐ 24.8k | https://github.com/langfuse/langfuse |
+| Opik (Comet) | ⭐ 18.8k | https://github.com/comet-ml/opik |
+| Phoenix (Arize) | ⭐ 9.3k | https://github.com/Arize-ai/phoenix |
+| OpenLLMetry | ⭐ 7.0k | https://github.com/traceloop/openllmetry |
+| Helicone | ⭐ 5.5k | https://github.com/Helicone/helicone |
+| AgentOps SDK | ⭐ 5.5k | https://github.com/AgentOps-AI/agentops |
+| OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
+| Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
+| Monocle2AI | ⭐ 74 | https://github.com/monocle2ai/monocle |
+| Dunetrace | ⭐ 24 | https://github.com/dunetrace/dunetrace |
+<!-- OSS_TABLE:END -->
 
-Stars are approximate and evolve over time.
+Stars updated daily via GitHub Actions.
 
 ### Star History
 
@@ -131,6 +133,7 @@ Stars are approximate and evolve over time.
 
 ### Paid / SaaS Tools
 
+<!-- PAID_TABLE:START -->
 | Tool | Pricing | Links |
 |------|--------|------|
 | LangSmith | 💰 ~$39/mo | https://smith.langchain.com |
@@ -141,6 +144,7 @@ Stars are approximate and evolve over time.
 | Confident AI | 💰 ~$19.99 | https://www.confident-ai.com |
 | HoneyHive | 💰 Custom | https://www.honeyhive.ai |
 | Langfuse Cloud | 💰 ~$29 | https://langfuse.com |
+<!-- PAID_TABLE:END -->
 
 ---
 
@@ -217,6 +221,29 @@ If this repository is useful:
 
 Pull requests are welcome.
 
-To contribute:
-1. Update data/tools.json
+### Adding a tool
+
+The README tables are generated automatically every day from [data/tools.json](data/tools.json).  
+To add a new tool, open a PR that appends an entry to that file — the pipeline will pick it up and update the lists on the next scheduled run.
+
+**Required fields:**
+
+```json
+{
+  "name": "Tool Name",
+  "category": "open_source",
+  "focus": "One-line description of what it does",
+  "official_url": "https://...",
+  "github_repo": "owner/repo",
+  "docs_url": "https://...",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/owner/repo"
+}
+```
+
+- Set `"category"` to `"open_source"` or `"paid"`.
+- For paid tools, fill `"pricing_label"` (e.g. `"~$49/mo"`) and `"pricing_url"`.
+- For open-source tools, leave `"pricing_label"` empty — star counts are fetched live from `"github_repo"`.
+- Open-source tools are sorted automatically by star count; no need to worry about order.
 
