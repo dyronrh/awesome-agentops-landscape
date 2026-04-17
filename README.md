@@ -18,7 +18,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-04-16  
+**Last generated:** 2026-04-17  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -112,9 +112,9 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 43.5k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 25.0k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 20.1k | https://github.com/promptfoo/promptfoo |
+| LiteLLM | ⭐ 43.6k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 25.1k | https://github.com/langfuse/langfuse |
+| Promptfoo | ⭐ 20.2k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 18.9k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | DeepEval | ⭐ 14.8k | https://github.com/confident-ai/deepeval |
@@ -130,7 +130,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Monocle2AI | ⭐ 75 | https://github.com/monocle2ai/monocle |
-| Dunetrace | ⭐ 25 | https://github.com/dunetrace/dunetrace |
+| Dunetrace | ⭐ 26 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
