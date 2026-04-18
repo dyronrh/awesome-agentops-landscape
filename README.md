@@ -18,7 +18,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-04-17  
+**Last generated:** 2026-04-18  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -112,12 +112,12 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 43.6k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 43.7k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 25.1k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 20.2k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 18.9k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| DeepEval | ⭐ 14.8k | https://github.com/confident-ai/deepeval |
+| DeepEval | ⭐ 14.9k | https://github.com/confident-ai/deepeval |
 | RAGAS | ⭐ 13.4k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 9.3k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.4k | https://github.com/evidentlyai/evidently |
@@ -129,8 +129,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Laminar | ⭐ 2.8k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| Monocle2AI | ⭐ 75 | https://github.com/monocle2ai/monocle |
-| Dunetrace | ⭐ 26 | https://github.com/dunetrace/dunetrace |
+| Monocle2AI | ⭐ 76 | https://github.com/monocle2ai/monocle |
+| Dunetrace | ⭐ 28 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
