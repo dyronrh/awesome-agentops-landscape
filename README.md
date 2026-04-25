@@ -39,6 +39,7 @@ Each week this repository highlights:
 - [TL;DR](#tldr)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI agent operations, LLM-powered cluster management, real-time observability, and CNCF project integrations. CNCF Sandbox project.
 
 ---
 
