@@ -18,7 +18,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-04-24  
+**Last generated:** 2026-04-25  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -112,7 +112,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 44.5k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 44.6k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 26.0k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 20.5k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.0k | https://github.com/comet-ml/opik |
@@ -122,8 +122,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Phoenix (Arize) | ⭐ 9.4k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.4k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.0k | https://github.com/traceloop/openllmetry |
-| Guardrails AI | ⭐ 6.7k | https://github.com/guardrails-ai/guardrails |
-| Helicone | ⭐ 5.5k | https://github.com/Helicone/helicone |
+| Guardrails AI | ⭐ 6.8k | https://github.com/guardrails-ai/guardrails |
+| Helicone | ⭐ 5.6k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.5k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.1k | https://github.com/agenta-ai/agenta |
 | Laminar | ⭐ 2.8k | https://github.com/lmnr-ai/lmnr |
