@@ -209,6 +209,17 @@
     "display_link": "https://github.com/BerriAI/litellm"
   },
   {
+    "name": "Open Bias",
+    "category": "open_source",
+    "focus": "Agent alignment & policy enforcement",
+    "official_url": "https://github.com/open-bias/open-bias",
+    "github_repo": "open-bias/open-bias",
+    "docs_url": "https://github.com/open-bias/open-bias#readme",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/open-bias/open-bias"
+  },
+  {
     "name": "LangSmith",
     "category": "paid",
     "focus": "Full-stack tracing & evaluation",

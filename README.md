@@ -112,13 +112,13 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 44.7k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 44.8k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 26.1k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 20.6k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.1k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | DeepEval | ⭐ 15.0k | https://github.com/confident-ai/deepeval |
-| RAGAS | ⭐ 13.6k | https://github.com/explodinggradients/ragas |
+| RAGAS | ⭐ 13.7k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 9.4k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.4k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.0k | https://github.com/traceloop/openllmetry |
@@ -130,6 +130,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Monocle2AI | ⭐ 79 | https://github.com/monocle2ai/monocle |
+| Open Bias | ⭐ 45 | https://github.com/open-bias/open-bias |
 | Dunetrace | ⭐ 38 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
@@ -206,6 +207,7 @@ Coverage of the 8 core AgentOps capabilities per tool.
 | Weave (W&B) | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
 | Monocle2AI | ✅ | ✅ | | | | | | ✅ |
 | Dunetrace | ✅ | ✅ | | | | | | ✅ |
+| Open Bias | ✅ | | ✅ | | | ✅ | | ✅ |
 
 ### Paid / SaaS
 
@@ -270,6 +272,7 @@ Observed patterns:
 
 **Guardrails & safety:**
 - Guardrails AI — OSS input/output validation framework
+- Open Bias — OSS policy enforcement & active defense
 - Galileo — real-time production guardrails
 - Patronus AI — automated hallucination detection
 
@@ -288,7 +291,7 @@ The AgentOps ecosystem spans five layers:
 | **Gateway & Routing** | Proxy, cost control, multi-provider | LiteLLM, Helicone, Portkey |
 | **Tracing & Observability** | Spans, traces, session replay | Langfuse, Phoenix, OpenLIT, OpenLLMetry, Laminar, AgentOps SDK, Monocle2AI |
 | **Evaluation** | Quality scoring, regression, red-teaming | DeepEval, RAGAS, Promptfoo, Opik, Braintrust, Agenta |
-| **Guardrails & Safety** | Input/output validation, hallucination detection | Guardrails AI, Galileo, Patronus AI |
+| **Guardrails & safety** | Input/output validation, policy enforcement | Guardrails AI, Open Bias, Galileo, Patronus AI |
 | **Monitoring & Drift** | Model drift, cost tracking, data quality | Evidently AI, Weave (W&B), Datadog LLM |
 
 ---
