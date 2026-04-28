@@ -1,3 +1,5 @@
+![AgentOps Landscape Banner](assets/agentops-banner.jpg)
+
 # awesome-agentops-landscape
 
 
@@ -39,7 +41,6 @@ Each week this repository highlights:
 - [TL;DR](#tldr)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
-- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI agent operations, LLM-powered cluster management, real-time observability, and CNCF project integrations. CNCF Sandbox project.
 
 ---
 
@@ -131,7 +132,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Monocle2AI | ⭐ 85 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 82 | https://github.com/open-bias/open-bias |
+| Open Bias | ⭐ 83 | https://github.com/open-bias/open-bias |
+| KubeStellar | ⭐ 79 | https://github.com/kubestellar/console |
 | Dunetrace | ⭐ 38 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
@@ -209,6 +211,7 @@ Coverage of the 8 core AgentOps capabilities per tool.
 | Monocle2AI | ✅ | ✅ | | | | | | ✅ |
 | Dunetrace | ✅ | ✅ | | | | | | ✅ |
 | Open Bias | ✅ | | ✅ | | | ✅ | | ✅ |
+| KubeStellar | ✅ | ✅ | | | | | | ✅ |
 
 ### Paid / SaaS
 
@@ -351,4 +354,3 @@ To add a new tool, open a PR that appends an entry to that file — the pipeline
 - For paid tools, fill `"pricing_label"` (e.g. `"~$49/mo"`) and `"pricing_url"`.
 - For open-source tools, leave `"pricing_label"` empty — star counts are fetched live from `"github_repo"`.
 - Open-source tools are sorted automatically by star count; no need to worry about order.
-
