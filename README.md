@@ -18,7 +18,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-04-29  
+**Last generated:** 2026-04-30  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -113,8 +113,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 45.1k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 26.3k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 45.3k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 26.4k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 20.7k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.1k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
@@ -122,7 +122,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | RAGAS | ⭐ 13.7k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 9.5k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.4k | https://github.com/evidentlyai/evidently |
-| OpenLLMetry | ⭐ 7.0k | https://github.com/traceloop/openllmetry |
+| OpenLLMetry | ⭐ 7.1k | https://github.com/traceloop/openllmetry |
 | Guardrails AI | ⭐ 6.8k | https://github.com/guardrails-ai/guardrails |
 | Helicone | ⭐ 5.6k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.5k | https://github.com/AgentOps-AI/agentops |
@@ -130,8 +130,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Laminar | ⭐ 2.8k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| Monocle2AI | ⭐ 83 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 78 | https://github.com/open-bias/open-bias |
+| Monocle2AI | ⭐ 85 | https://github.com/monocle2ai/monocle |
+| Open Bias | ⭐ 82 | https://github.com/open-bias/open-bias |
 | Dunetrace | ⭐ 38 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
