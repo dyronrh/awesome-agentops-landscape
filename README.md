@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-05-03  
+**Last generated:** 2026-05-04  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 45.5k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 45.6k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 26.5k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 20.8k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.2k | https://github.com/comet-ml/opik |
@@ -132,9 +132,9 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Monocle2AI | ⭐ 90 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 84 | https://github.com/open-bias/open-bias |
+| Open Bias | ⭐ 85 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 81 | https://github.com/kubestellar/console |
-| Dunetrace | ⭐ 38 | https://github.com/dunetrace/dunetrace |
+| Dunetrace | ⭐ 39 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
