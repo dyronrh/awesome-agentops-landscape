@@ -114,8 +114,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 45.6k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 26.5k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 45.7k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 26.6k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 20.8k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.2k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
@@ -125,16 +125,20 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Evidently AI | ⭐ 7.4k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.1k | https://github.com/traceloop/openllmetry |
 | Guardrails AI | ⭐ 6.8k | https://github.com/guardrails-ai/guardrails |
+| NeMo Guardrails | ⭐ 6.1k | https://github.com/NVIDIA-NeMo/Guardrails |
 | Helicone | ⭐ 5.6k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.5k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.1k | https://github.com/agenta-ai/agenta |
+| TruLens | ⭐ 3.3k | https://github.com/truera/trulens |
+| LLM Guard | ⭐ 2.9k | https://github.com/protectai/llm-guard |
 | Laminar | ⭐ 2.8k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| Monocle2AI | ⭐ 90 | https://github.com/monocle2ai/monocle |
+| Agent Evaluation (AWS Labs) | ⭐ 359 | https://github.com/awslabs/agent-evaluation |
+| Monocle2AI | ⭐ 91 | https://github.com/monocle2ai/monocle |
 | Open Bias | ⭐ 85 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 81 | https://github.com/kubestellar/console |
-| Dunetrace | ⭐ 39 | https://github.com/dunetrace/dunetrace |
+| Dunetrace | ⭐ 42 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
