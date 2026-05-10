@@ -139,6 +139,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Open Bias | ⭐ 89 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 84 | https://github.com/kubestellar/console |
 | Dunetrace | ⭐ 42 | https://github.com/dunetrace/dunetrace |
+| agenttrace | ⭐ 32 | https://github.com/luoyuctl/agenttrace |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
