@@ -358,3 +358,5 @@ To add a new tool, open a PR that appends an entry to that file — the pipeline
 - For paid tools, fill `"pricing_label"` (e.g. `"~$49/mo"`) and `"pricing_url"`.
 - For open-source tools, leave `"pricing_label"` empty — star counts are fetched live from `"github_repo"`.
 - Open-source tools are sorted automatically by star count; no need to worry about order.
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents. Track token usage, session status, and message trends.
