@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-05-09  
+**Last generated:** 2026-05-14  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,19 +114,19 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 46.3k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 26.9k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 21.0k | https://github.com/promptfoo/promptfoo |
+| LiteLLM | ⭐ 46.9k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 27.2k | https://github.com/langfuse/langfuse |
+| Promptfoo | ⭐ 21.2k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.3k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| DeepEval | ⭐ 15.3k | https://github.com/confident-ai/deepeval |
-| RAGAS | ⭐ 13.8k | https://github.com/explodinggradients/ragas |
-| Phoenix (Arize) | ⭐ 9.6k | https://github.com/Arize-ai/phoenix |
+| DeepEval | ⭐ 15.4k | https://github.com/confident-ai/deepeval |
+| RAGAS | ⭐ 13.9k | https://github.com/explodinggradients/ragas |
+| Phoenix (Arize) | ⭐ 9.7k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.5k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.1k | https://github.com/traceloop/openllmetry |
-| Guardrails AI | ⭐ 6.8k | https://github.com/guardrails-ai/guardrails |
+| Guardrails AI | ⭐ 6.9k | https://github.com/guardrails-ai/guardrails |
 | NeMo Guardrails | ⭐ 6.1k | https://github.com/NVIDIA-NeMo/Guardrails |
-| Helicone | ⭐ 5.6k | https://github.com/Helicone/helicone |
+| Helicone | ⭐ 5.7k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.5k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.1k | https://github.com/agenta-ai/agenta |
 | TruLens | ⭐ 3.3k | https://github.com/truera/trulens |
@@ -140,6 +140,11 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | KubeStellar | ⭐ 84 | https://github.com/kubestellar/console |
 | Dunetrace | ⭐ 42 | https://github.com/dunetrace/dunetrace |
 | agenttrace | ⭐ 32 | https://github.com/luoyuctl/agenttrace |
+| Agent Evaluation (AWS Labs) | ⭐ 361 | https://github.com/awslabs/agent-evaluation |
+| Monocle2AI | ⭐ 114 | https://github.com/monocle2ai/monocle |
+| Open Bias | ⭐ 108 | https://github.com/open-bias/open-bias |
+| KubeStellar | ⭐ 97 | https://github.com/kubestellar/console |
+| Dunetrace | ⭐ 43 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
