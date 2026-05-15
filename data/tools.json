@@ -482,5 +482,27 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/kubestellar/console"
-  }
+  },
+  {
+  "name": "agentcheck",
+  "category": "open_source",
+  "focus": "Runtime behavioral governance for AI coding agents — rule-based guardrails for every tool call",
+  "official_url": "https://paprika-org.github.io/agentcheck/",
+  "github_repo": "paprika-org/agentcheck",
+  "docs_url": "https://github.com/paprika-org/agentcheck#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/paprika-org/agentcheck"
+},
+{
+  "name": "agent-bill-guard",
+  "category": "open_source",
+  "focus": "Per-session budget enforcement proxy — terminates runaway LLM agents before costs spiral",
+  "official_url": "https://paprika-org.github.io/agent-bill-guard/",
+  "github_repo": "paprika-org/agent-bill-guard",
+  "docs_url": "https://github.com/paprika-org/agent-bill-guard#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/paprika-org/agent-bill-guard"
+}
 ]

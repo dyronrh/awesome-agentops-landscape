@@ -114,9 +114,9 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 46.9k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 47.0k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 27.2k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 21.2k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 21.3k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.3k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | DeepEval | ⭐ 15.4k | https://github.com/confident-ai/deepeval |
@@ -130,21 +130,18 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | AgentOps SDK | ⭐ 5.5k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.1k | https://github.com/agenta-ai/agenta |
 | TruLens | ⭐ 3.3k | https://github.com/truera/trulens |
-| LLM Guard | ⭐ 2.9k | https://github.com/protectai/llm-guard |
+| LLM Guard | ⭐ 3.0k | https://github.com/protectai/llm-guard |
 | Laminar | ⭐ 2.9k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.4k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| Agent Evaluation (AWS Labs) | ⭐ 360 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 106 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 89 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 84 | https://github.com/kubestellar/console |
-| Dunetrace | ⭐ 42 | https://github.com/dunetrace/dunetrace |
-| agenttrace | ⭐ 32 | https://github.com/luoyuctl/agenttrace |
 | Agent Evaluation (AWS Labs) | ⭐ 361 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 114 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 108 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 97 | https://github.com/kubestellar/console |
+| Monocle2AI | ⭐ 116 | https://github.com/monocle2ai/monocle |
+| Open Bias | ⭐ 109 | https://github.com/open-bias/open-bias |
+| KubeStellar | ⭐ 99 | https://github.com/kubestellar/console |
 | Dunetrace | ⭐ 43 | https://github.com/dunetrace/dunetrace |
+| agenttrace | ⭐ 34 | https://github.com/luoyuctl/agenttrace |
+| agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
+| agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
