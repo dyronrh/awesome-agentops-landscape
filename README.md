@@ -136,10 +136,11 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 361 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 123 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 115 | https://github.com/open-bias/open-bias |
+| Open Bias | ⭐ 116 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 100 | https://github.com/kubestellar/console |
 | Dunetrace | ⭐ 44 | https://github.com/dunetrace/dunetrace |
 | agenttrace | ⭐ 35 | https://github.com/luoyuctl/agenttrace |
+| APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
 <!-- OSS_TABLE:END -->

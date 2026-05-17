@@ -504,5 +504,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/paprika-org/agent-bill-guard"
+},
+{
+  "name": "APort",
+  "category": "open_source",
+  "focus": "Runtime trust rail and integration toolkit for AI agents",
+  "official_url": "https://aport.io/",
+  "github_repo": "aporthq/aport-integrations",
+  "docs_url": "https://github.com/aporthq/aport-integrations#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/aporthq/aport-integrations"
 }
 ]
