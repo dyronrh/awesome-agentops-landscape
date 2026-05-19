@@ -218,6 +218,7 @@ Coverage of the 8 core AgentOps capabilities per tool.
 | Weave (W&B) | ✅ | ✅ | ✅ | | ✅ | | ✅ | ✅ |
 | Monocle2AI | ✅ | ✅ | | | | | | ✅ |
 | Dunetrace | ✅ | ✅ | | | | | | ✅ |
+| agenttrace | ✅ | ✅ | | | ✅ | | | ✅ |
 | Open Bias | ✅ | | ✅ | | | ✅ | | ✅ |
 | KubeStellar | ✅ | ✅ | | | | | | ✅ |
 
