@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-05-20  
+**Last generated:** 2026-05-21  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,8 +114,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 47.7k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 27.5k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 47.8k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 27.6k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 21.4k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.3k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
@@ -134,12 +134,12 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Laminar | ⭐ 2.9k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.5k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| Agent Evaluation (AWS Labs) | ⭐ 362 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 130 | https://github.com/monocle2ai/monocle |
+| Agent Evaluation (AWS Labs) | ⭐ 363 | https://github.com/awslabs/agent-evaluation |
+| Monocle2AI | ⭐ 135 | https://github.com/monocle2ai/monocle |
 | Open Bias | ⭐ 121 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 104 | https://github.com/kubestellar/console |
+| KubeStellar | ⭐ 105 | https://github.com/kubestellar/console |
 | Dunetrace | ⭐ 45 | https://github.com/dunetrace/dunetrace |
-| agenttrace | ⭐ 41 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 42 | https://github.com/luoyuctl/agenttrace |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
