@@ -131,14 +131,14 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Agenta | ⭐ 4.2k | https://github.com/agenta-ai/agenta |
 | TruLens | ⭐ 3.3k | https://github.com/truera/trulens |
 | LLM Guard | ⭐ 3.0k | https://github.com/protectai/llm-guard |
-| Laminar | ⭐ 2.9k | https://github.com/lmnr-ai/lmnr |
+| Laminar | ⭐ 3.0k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.5k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 363 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 146 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 119 | https://github.com/open-bias/open-bias |
+| Monocle2AI | ⭐ 149 | https://github.com/monocle2ai/monocle |
+| Open Bias | ⭐ 120 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 109 | https://github.com/kubestellar/console |
-| agenttrace | ⭐ 48 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 49 | https://github.com/luoyuctl/agenttrace |
 | Dunetrace | ⭐ 45 | https://github.com/dunetrace/dunetrace |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
