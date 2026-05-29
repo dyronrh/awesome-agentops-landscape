@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-05-28  
+**Last generated:** 2026-05-29  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,31 +114,31 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 48.5k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 28.1k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 48.7k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 28.2k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 21.7k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.4k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | DeepEval | ⭐ 15.8k | https://github.com/confident-ai/deepeval |
 | RAGAS | ⭐ 14.1k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 9.9k | https://github.com/Arize-ai/phoenix |
-| Evidently AI | ⭐ 7.5k | https://github.com/evidentlyai/evidently |
-| OpenLLMetry | ⭐ 7.1k | https://github.com/traceloop/openllmetry |
+| Evidently AI | ⭐ 7.6k | https://github.com/evidentlyai/evidently |
+| OpenLLMetry | ⭐ 7.2k | https://github.com/traceloop/openllmetry |
 | Guardrails AI | ⭐ 6.9k | https://github.com/guardrails-ai/guardrails |
 | NeMo Guardrails | ⭐ 6.3k | https://github.com/NVIDIA-NeMo/Guardrails |
-| Helicone | ⭐ 5.7k | https://github.com/Helicone/helicone |
+| Helicone | ⭐ 5.8k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.6k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.2k | https://github.com/agenta-ai/agenta |
-| TruLens | ⭐ 3.3k | https://github.com/truera/trulens |
+| TruLens | ⭐ 3.4k | https://github.com/truera/trulens |
 | LLM Guard | ⭐ 3.0k | https://github.com/protectai/llm-guard |
 | Laminar | ⭐ 3.0k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.5k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 364 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 157 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 121 | https://github.com/open-bias/open-bias |
+| Monocle2AI | ⭐ 161 | https://github.com/monocle2ai/monocle |
+| Open Bias | ⭐ 123 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 109 | https://github.com/kubestellar/console |
-| agenttrace | ⭐ 50 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 52 | https://github.com/luoyuctl/agenttrace |
 | Dunetrace | ⭐ 45 | https://github.com/dunetrace/dunetrace |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
