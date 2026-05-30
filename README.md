@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-05-29  
+**Last generated:** 2026-05-30  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -135,10 +135,10 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.5k | https://github.com/openlit/openlit |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 364 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 161 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 164 | https://github.com/monocle2ai/monocle |
 | Open Bias | ⭐ 123 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 109 | https://github.com/kubestellar/console |
-| agenttrace | ⭐ 52 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 53 | https://github.com/luoyuctl/agenttrace |
 | Dunetrace | ⭐ 45 | https://github.com/dunetrace/dunetrace |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
