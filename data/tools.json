@@ -515,5 +515,49 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/aporthq/aport-integrations"
+},
+{
+  "name": "traceAI",
+  "category": "open_source",
+  "focus": "OpenTelemetry-native tracing for LLM/agent apps; 50+ framework integrations across Python, TS, Java, C#",
+  "official_url": "https://github.com/future-agi/traceAI",
+  "github_repo": "future-agi/traceAI",
+  "docs_url": "https://github.com/future-agi/traceAI#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/future-agi/traceAI"
+},
+{
+  "name": "ai-evaluation",
+  "category": "open_source",
+  "focus": "LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, prompt-injection)",
+  "official_url": "https://github.com/future-agi/ai-evaluation",
+  "github_repo": "future-agi/ai-evaluation",
+  "docs_url": "https://github.com/future-agi/ai-evaluation#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/future-agi/ai-evaluation"
+},
+{
+  "name": "agent-command-center-sdk",
+  "category": "open_source",
+  "focus": "OpenAI-compatible gateway SDK for managing and routing AI agent requests across providers",
+  "official_url": "https://github.com/future-agi/agent-command-center-sdk",
+  "github_repo": "future-agi/agent-command-center-sdk",
+  "docs_url": "https://github.com/future-agi/agent-command-center-sdk#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/future-agi/agent-command-center-sdk"
+},
+{
+  "name": "Future AGI",
+  "category": "open_source",
+  "focus": "Self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails",
+  "official_url": "https://futureagi.com/",
+  "github_repo": "future-agi/future-agi",
+  "docs_url": "https://docs.futureagi.com",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/future-agi/future-agi"
 }
 ]
