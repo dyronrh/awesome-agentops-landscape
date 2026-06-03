@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-06-02  
+**Last generated:** 2026-06-03  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 49.0k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 49.1k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 28.4k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 21.8k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.4k | https://github.com/comet-ml/opik |
@@ -136,12 +136,12 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Future AGI | ⭐ 1.1k | https://github.com/future-agi/future-agi |
 | Agent Evaluation (AWS Labs) | ⭐ 364 | https://github.com/awslabs/agent-evaluation |
-| traceAI | ⭐ 190 | https://github.com/future-agi/traceAI |
-| Monocle2AI | ⭐ 168 | https://github.com/monocle2ai/monocle |
+| traceAI | ⭐ 191 | https://github.com/future-agi/traceAI |
+| Monocle2AI | ⭐ 174 | https://github.com/monocle2ai/monocle |
 | Open Bias | ⭐ 123 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 109 | https://github.com/kubestellar/console |
+| KubeStellar | ⭐ 111 | https://github.com/kubestellar/console |
 | ai-evaluation | ⭐ 105 | https://github.com/future-agi/ai-evaluation |
-| agenttrace | ⭐ 53 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 54 | https://github.com/luoyuctl/agenttrace |
 | Dunetrace | ⭐ 45 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 24 | https://github.com/future-agi/agent-command-center-sdk |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
