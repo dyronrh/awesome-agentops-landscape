@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-06-06  
+**Last generated:** 2026-06-07  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -116,10 +116,10 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 |------|------|------|
 | LiteLLM | ⭐ 49.5k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 28.6k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 21.9k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 22.0k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.4k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| DeepEval | ⭐ 15.9k | https://github.com/confident-ai/deepeval |
+| DeepEval | ⭐ 16.0k | https://github.com/confident-ai/deepeval |
 | RAGAS | ⭐ 14.3k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 10.0k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.6k | https://github.com/evidentlyai/evidently |
@@ -136,9 +136,9 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Future AGI | ⭐ 1.1k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 364 | https://github.com/awslabs/agent-evaluation |
-| traceAI | ⭐ 193 | https://github.com/future-agi/traceAI |
-| Monocle2AI | ⭐ 189 | https://github.com/monocle2ai/monocle |
-| Open Bias | ⭐ 122 | https://github.com/open-bias/open-bias |
+| traceAI | ⭐ 194 | https://github.com/future-agi/traceAI |
+| Monocle2AI | ⭐ 191 | https://github.com/monocle2ai/monocle |
+| Open Bias | ⭐ 123 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 111 | https://github.com/kubestellar/console |
 | ai-evaluation | ⭐ 104 | https://github.com/future-agi/ai-evaluation |
 | agenttrace | ⭐ 55 | https://github.com/luoyuctl/agenttrace |
