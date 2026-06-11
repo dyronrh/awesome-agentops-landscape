@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-06-10  
+**Last generated:** 2026-06-11  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,8 +114,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 49.9k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 28.8k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 50.0k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 28.9k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 22.1k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.6k | https://github.com/comet-ml/opik |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
@@ -136,15 +136,15 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Future AGI | ⭐ 1.1k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 366 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 211 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 218 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 196 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 125 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 112 | https://github.com/kubestellar/console |
+| KubeStellar | ⭐ 113 | https://github.com/kubestellar/console |
 | ai-evaluation | ⭐ 106 | https://github.com/future-agi/ai-evaluation |
-| agenttrace | ⭐ 57 | https://github.com/luoyuctl/agenttrace |
 | Dunetrace | ⭐ 49 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 24 | https://github.com/future-agi/agent-command-center-sdk |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
+| agenttrace | ⭐ ? | https://github.com/luoyuctl/agenttrace |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
 <!-- OSS_TABLE:END -->
