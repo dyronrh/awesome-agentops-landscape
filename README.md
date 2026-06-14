@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-06-13  
+**Last generated:** 2026-06-14  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 50.2k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 50.3k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 29.0k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 22.2k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.6k | https://github.com/comet-ml/opik |
