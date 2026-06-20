@@ -559,5 +559,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/future-agi/future-agi"
+},
+{
+  "name": "ax",
+  "category": "open_source",
+  "focus": "Local coding-agent telemetry and recall across sessions, tools, skills, and costs",
+  "official_url": "https://github.com/Necmttn/ax",
+  "github_repo": "Necmttn/ax",
+  "docs_url": "https://github.com/Necmttn/ax#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/Necmttn/ax"
 }
 ]
