@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-06-20  
+**Last generated:** 2026-06-21  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,13 +114,13 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 50.9k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 29.4k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 51.0k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 29.5k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 22.4k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.7k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 16.3k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| RAGAS | ⭐ 14.4k | https://github.com/explodinggradients/ragas |
+| RAGAS | ⭐ 14.5k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 10.2k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.6k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.2k | https://github.com/traceloop/openllmetry |
