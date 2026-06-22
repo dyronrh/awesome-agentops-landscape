@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-06-21  
+**Last generated:** 2026-06-22  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,11 +114,11 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 51.0k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 51.1k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 29.5k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 22.4k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 22.5k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.7k | https://github.com/comet-ml/opik |
-| DeepEval | ⭐ 16.3k | https://github.com/confident-ai/deepeval |
+| DeepEval | ⭐ 16.4k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | RAGAS | ⭐ 14.5k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 10.2k | https://github.com/Arize-ai/phoenix |
@@ -136,12 +136,12 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Future AGI | ⭐ 1.2k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 368 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 257 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 258 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 196 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 128 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 118 | https://github.com/kubestellar/console |
 | ai-evaluation | ⭐ 107 | https://github.com/future-agi/ai-evaluation |
-| agenttrace | ⭐ 76 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 79 | https://github.com/luoyuctl/agenttrace |
 | Dunetrace | ⭐ 51 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 23 | https://github.com/future-agi/agent-command-center-sdk |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
