@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-06-24  
+**Last generated:** 2026-06-25  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,11 +114,11 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 51.4k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 51.5k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 29.7k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 22.5k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 22.6k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 19.8k | https://github.com/comet-ml/opik |
-| DeepEval | ⭐ 16.4k | https://github.com/confident-ai/deepeval |
+| DeepEval | ⭐ 16.5k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | RAGAS | ⭐ 14.5k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 10.3k | https://github.com/Arize-ai/phoenix |
@@ -127,7 +127,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Guardrails AI | ⭐ 7.0k | https://github.com/guardrails-ai/guardrails |
 | NeMo Guardrails | ⭐ 6.5k | https://github.com/NVIDIA-NeMo/Guardrails |
 | Helicone | ⭐ 5.9k | https://github.com/Helicone/helicone |
-| AgentOps SDK | ⭐ 5.7k | https://github.com/AgentOps-AI/agentops |
+| AgentOps SDK | ⭐ 5.6k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.2k | https://github.com/agenta-ai/agenta |
 | TruLens | ⭐ 3.4k | https://github.com/truera/trulens |
 | LLM Guard | ⭐ 3.1k | https://github.com/protectai/llm-guard |
@@ -136,14 +136,14 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Future AGI | ⭐ 1.2k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 368 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 261 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 262 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 197 | https://github.com/future-agi/traceAI |
-| Open Bias | ⭐ 128 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 118 | https://github.com/kubestellar/console |
+| Open Bias | ⭐ 129 | https://github.com/open-bias/open-bias |
+| KubeStellar | ⭐ 119 | https://github.com/kubestellar/console |
 | ai-evaluation | ⭐ 108 | https://github.com/future-agi/ai-evaluation |
 | agenttrace | ⭐ 80 | https://github.com/luoyuctl/agenttrace |
-| ax | ⭐ 56 | https://github.com/Necmttn/ax |
-| Dunetrace | ⭐ 52 | https://github.com/dunetrace/dunetrace |
+| ax | ⭐ 65 | https://github.com/Necmttn/ax |
+| Dunetrace | ⭐ 53 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 23 | https://github.com/future-agi/agent-command-center-sdk |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
