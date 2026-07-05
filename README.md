@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-07-04  
+**Last generated:** 2026-07-05  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -120,7 +120,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Opik (Comet) | ⭐ 20.3k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 16.6k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| RAGAS | ⭐ 14.6k | https://github.com/explodinggradients/ragas |
+| RAGAS | ⭐ 14.7k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 10.4k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.7k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.3k | https://github.com/traceloop/openllmetry |
