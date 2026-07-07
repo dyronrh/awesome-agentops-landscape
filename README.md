@@ -138,6 +138,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Monocle2AI | ⭐ 114 | https://github.com/monocle2ai/monocle |
 | Open Bias | ⭐ 108 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 97 | https://github.com/kubestellar/console |
+| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) | ⭐ 10 | https://github.com/flik2002/openclaw-monitor |
 | Dunetrace | ⭐ 43 | https://github.com/dunetrace/dunetrace |
 <!-- OSS_TABLE:END -->
 
