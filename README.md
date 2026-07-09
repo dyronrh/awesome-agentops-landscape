@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-07-08  
+**Last generated:** 2026-07-09  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,13 +114,13 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 52.9k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 30.7k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 23.0k | https://github.com/promptfoo/promptfoo |
-| Opik (Comet) | ⭐ 20.4k | https://github.com/comet-ml/opik |
+| LiteLLM | ⭐ 53.1k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 30.8k | https://github.com/langfuse/langfuse |
+| Promptfoo | ⭐ 23.1k | https://github.com/promptfoo/promptfoo |
+| Opik (Comet) | ⭐ 20.5k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 16.7k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| RAGAS | ⭐ 14.7k | https://github.com/explodinggradients/ragas |
+| RAGAS | ⭐ 14.8k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 10.5k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.7k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.3k | https://github.com/traceloop/openllmetry |
@@ -142,8 +142,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | KubeStellar | ⭐ 120 | https://github.com/kubestellar/console |
 | ai-evaluation | ⭐ 111 | https://github.com/future-agi/ai-evaluation |
 | agenttrace | ⭐ 96 | https://github.com/luoyuctl/agenttrace |
-| ax | ⭐ 79 | https://github.com/Necmttn/ax |
-| Dunetrace | ⭐ 56 | https://github.com/dunetrace/dunetrace |
+| ax | ⭐ 81 | https://github.com/Necmttn/ax |
+| Dunetrace | ⭐ 57 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 24 | https://github.com/future-agi/agent-command-center-sdk |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
