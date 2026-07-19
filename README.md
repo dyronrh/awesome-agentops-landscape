@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-07-18  
+**Last generated:** 2026-07-19  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 53.9k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 54.0k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 31.4k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 23.4k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 20.7k | https://github.com/comet-ml/opik |
@@ -133,18 +133,18 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | LLM Guard | ⭐ 3.2k | https://github.com/protectai/llm-guard |
 | Laminar | ⭐ 3.1k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.6k | https://github.com/openlit/openlit |
-| Future AGI | ⭐ 1.4k | https://github.com/future-agi/future-agi |
+| Future AGI | ⭐ 1.5k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | Agent Evaluation (AWS Labs) | ⭐ 369 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 306 | https://github.com/monocle2ai/monocle |
-| traceAI | ⭐ 203 | https://github.com/future-agi/traceAI |
+| traceAI | ⭐ 204 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 133 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 120 | https://github.com/kubestellar/console |
 | ai-evaluation | ⭐ 114 | https://github.com/future-agi/ai-evaluation |
 | agenttrace | ⭐ 106 | https://github.com/luoyuctl/agenttrace |
 | ax | ⭐ 83 | https://github.com/Necmttn/ax |
-| Dunetrace | ⭐ 57 | https://github.com/dunetrace/dunetrace |
-| agent-command-center-sdk | ⭐ 26 | https://github.com/future-agi/agent-command-center-sdk |
+| Dunetrace | ⭐ 58 | https://github.com/dunetrace/dunetrace |
+| agent-command-center-sdk | ⭐ 27 | https://github.com/future-agi/agent-command-center-sdk |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
