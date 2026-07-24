@@ -570,5 +570,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/Necmttn/ax"
+},
+{
+  "name": "whatbroke",
+  "category": "open_source",
+  "focus": "Diff agent behavior between two runs: tool calls, args, cost, latency, outcome flips",
+  "official_url": "https://github.com/arthi-arumugam-git/whatbroke",
+  "github_repo": "arthi-arumugam-git/whatbroke",
+  "docs_url": "https://github.com/arthi-arumugam-git/whatbroke#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/arthi-arumugam-git/whatbroke"
 }
 ]
