@@ -132,6 +132,17 @@
     "display_link": "https://github.com/raga-ai-hub/RagaAI-Catalyst"
   },
   {
+    "name": "agenttrace",
+    "category": "open_source",
+    "focus": "Local coding-agent session replay, diffing & audit",
+    "official_url": "https://github.com/luoyuctl/agenttrace",
+    "github_repo": "luoyuctl/agenttrace",
+    "docs_url": "https://github.com/luoyuctl/agenttrace#readme",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/luoyuctl/agenttrace"
+  },
+  {
     "name": "DeepEval",
     "category": "open_source",
     "focus": "LLM & agent evaluation (50+ metrics)",
@@ -471,5 +482,104 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/kubestellar/console"
-  }
+  },
+  {
+  "name": "agentcheck",
+  "category": "open_source",
+  "focus": "Runtime behavioral governance for AI coding agents — rule-based guardrails for every tool call",
+  "official_url": "https://paprika-org.github.io/agentcheck/",
+  "github_repo": "paprika-org/agentcheck",
+  "docs_url": "https://github.com/paprika-org/agentcheck#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/paprika-org/agentcheck"
+},
+{
+  "name": "agent-bill-guard",
+  "category": "open_source",
+  "focus": "Per-session budget enforcement proxy — terminates runaway LLM agents before costs spiral",
+  "official_url": "https://paprika-org.github.io/agent-bill-guard/",
+  "github_repo": "paprika-org/agent-bill-guard",
+  "docs_url": "https://github.com/paprika-org/agent-bill-guard#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/paprika-org/agent-bill-guard"
+},
+{
+  "name": "APort",
+  "category": "open_source",
+  "focus": "Runtime trust rail and integration toolkit for AI agents",
+  "official_url": "https://aport.io/",
+  "github_repo": "aporthq/aport-integrations",
+  "docs_url": "https://github.com/aporthq/aport-integrations#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/aporthq/aport-integrations"
+},
+{
+  "name": "traceAI",
+  "category": "open_source",
+  "focus": "OpenTelemetry-native tracing for LLM/agent apps; 50+ framework integrations across Python, TS, Java, C#",
+  "official_url": "https://github.com/future-agi/traceAI",
+  "github_repo": "future-agi/traceAI",
+  "docs_url": "https://github.com/future-agi/traceAI#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/future-agi/traceAI"
+},
+{
+  "name": "ai-evaluation",
+  "category": "open_source",
+  "focus": "LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, prompt-injection)",
+  "official_url": "https://github.com/future-agi/ai-evaluation",
+  "github_repo": "future-agi/ai-evaluation",
+  "docs_url": "https://github.com/future-agi/ai-evaluation#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/future-agi/ai-evaluation"
+},
+{
+  "name": "agent-command-center-sdk",
+  "category": "open_source",
+  "focus": "OpenAI-compatible gateway SDK for managing and routing AI agent requests across providers",
+  "official_url": "https://github.com/future-agi/agent-command-center-sdk",
+  "github_repo": "future-agi/agent-command-center-sdk",
+  "docs_url": "https://github.com/future-agi/agent-command-center-sdk#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/future-agi/agent-command-center-sdk"
+},
+{
+  "name": "Future AGI",
+  "category": "open_source",
+  "focus": "Self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails",
+  "official_url": "https://futureagi.com/",
+  "github_repo": "future-agi/future-agi",
+  "docs_url": "https://docs.futureagi.com",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/future-agi/future-agi"
+},
+{
+  "name": "ax",
+  "category": "open_source",
+  "focus": "Local coding-agent telemetry and recall across sessions, tools, skills, and costs",
+  "official_url": "https://github.com/Necmttn/ax",
+  "github_repo": "Necmttn/ax",
+  "docs_url": "https://github.com/Necmttn/ax#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/Necmttn/ax"
+},
+{
+  "name": "whatbroke",
+  "category": "open_source",
+  "focus": "Diff agent behavior between two runs: tool calls, args, cost, latency, outcome flips",
+  "official_url": "https://github.com/arthi-arumugam-git/whatbroke",
+  "github_repo": "arthi-arumugam-git/whatbroke",
+  "docs_url": "https://github.com/arthi-arumugam-git/whatbroke#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/arthi-arumugam-git/whatbroke"
+}
 ]
