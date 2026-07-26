@@ -135,6 +135,12 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.6k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 1.5k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
+| Agent Evaluation (AWS Labs) | ⭐ 361 | https://github.com/awslabs/agent-evaluation |
+| Monocle2AI | ⭐ 114 | https://github.com/monocle2ai/monocle |
+| Open Bias | ⭐ 108 | https://github.com/open-bias/open-bias |
+| KubeStellar | ⭐ 97 | https://github.com/kubestellar/console |
+| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) | ⭐ 10 | https://github.com/flik2002/openclaw-monitor |
+| Dunetrace | ⭐ 43 | https://github.com/dunetrace/dunetrace |
 | Agent Evaluation (AWS Labs) | ⭐ 369 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 314 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 206 | https://github.com/future-agi/traceAI |
