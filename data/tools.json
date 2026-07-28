@@ -581,5 +581,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/arthi-arumugam-git/whatbroke"
+},
+{
+  "name": "ClawBench",
+  "category": "open_source",
+  "focus": "Web-agent evaluation with isolated runs and synchronized browser actions, screenshots, HTTP traffic, video, and agent messages",
+  "official_url": "https://claw-bench.com/",
+  "github_repo": "TIGER-AI-Lab/ClawBench",
+  "docs_url": "https://github.com/TIGER-AI-Lab/ClawBench#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/TIGER-AI-Lab/ClawBench"
 }
 ]
