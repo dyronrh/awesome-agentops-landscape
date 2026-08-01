@@ -592,5 +592,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/TIGER-AI-Lab/ClawBench"
+},
+{
+  "name": "SourceryKit",
+  "category": "paid",
+  "focus": "Verifies an agent's outbound HTTP and MCP calls against a source of truth using zero-knowledge proofs, then blocks anything off the trusted-endpoint allow-list and logs each call",
+  "official_url": "https://github.com/ProvablyAI/sourcerykit",
+  "github_repo": "ProvablyAI/sourcerykit",
+  "docs_url": "https://github.com/ProvablyAI/sourcerykit#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/ProvablyAI/sourcerykit"
 }
 ]
