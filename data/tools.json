@@ -593,6 +593,17 @@
   "pricing_url": "",
   "display_link": "https://github.com/TIGER-AI-Lab/ClawBench"
 },
+  {
+    "name": "telemetry.dev",
+    "category": "paid",
+    "focus": "OpenTelemetry-native tracing for LLM/agent apps; per-span tokens, cost & latency",
+    "official_url": "https://telemetry.dev/",
+    "github_repo": "",
+    "docs_url": "https://telemetry.dev",
+    "pricing_label": "Free tier (10K spans/mo)",
+    "pricing_url": "https://telemetry.dev/pricing",
+    "display_link": "https://telemetry.dev"
+  },
 {
   "name": "SourceryKit",
   "category": "paid",
