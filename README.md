@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-08-01  
+**Last generated:** 2026-08-02  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,14 +114,14 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 55.2k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 55.3k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 32.3k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 23.8k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 21.0k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 17.3k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | RAGAS | ⭐ 15.1k | https://github.com/explodinggradients/ragas |
-| Phoenix (Arize) | ⭐ 10.8k | https://github.com/Arize-ai/phoenix |
+| Phoenix (Arize) | ⭐ 10.9k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.8k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.3k | https://github.com/traceloop/openllmetry |
 | Guardrails AI | ⭐ 7.2k | https://github.com/guardrails-ai/guardrails |
@@ -135,8 +135,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 1.5k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 540 | https://github.com/TIGER-AI-Lab/ClawBench |
-| Agent Evaluation (AWS Labs) | ⭐ 369 | https://github.com/awslabs/agent-evaluation |
+| ClawBench | ⭐ 544 | https://github.com/TIGER-AI-Lab/ClawBench |
+| Agent Evaluation (AWS Labs) | ⭐ 370 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 320 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 209 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 136 | https://github.com/open-bias/open-bias |
@@ -183,6 +183,8 @@ Stars updated daily via GitHub Actions.
 | Vellum | 💰 Free (Pro: $25/mo) | https://www.vellum.ai |
 | RagaAI Catalyst | 💰 Custom | https://raga.ai |
 | Portkey | 💰 Free tier + usage-based | https://portkey.ai |
+| telemetry.dev | 💰 Free tier (10K spans/mo) | https://telemetry.dev |
+| SourceryKit | 💰 — | https://github.com/ProvablyAI/sourcerykit |
 <!-- PAID_TABLE:END -->
 
 ---
