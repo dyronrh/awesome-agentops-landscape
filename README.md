@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-08-04  
+**Last generated:** 2026-08-05  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 55.5k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 55.6k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 32.5k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 23.9k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 21.1k | https://github.com/comet-ml/opik |
@@ -124,7 +124,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Phoenix (Arize) | ⭐ 10.9k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.8k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.4k | https://github.com/traceloop/openllmetry |
-| Guardrails AI | ⭐ 7.2k | https://github.com/guardrails-ai/guardrails |
+| Guardrails AI | ⭐ 7.3k | https://github.com/guardrails-ai/guardrails |
 | NeMo Guardrails | ⭐ 6.9k | https://github.com/NVIDIA-NeMo/Guardrails |
 | Helicone | ⭐ 6.0k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.8k | https://github.com/AgentOps-AI/agentops |
@@ -135,7 +135,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 1.6k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 547 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 549 | https://github.com/TIGER-AI-Lab/ClawBench |
 | Agent Evaluation (AWS Labs) | ⭐ 370 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 323 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 210 | https://github.com/future-agi/traceAI |
