@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-08-09  
+**Last generated:** 2026-08-10  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,10 +114,10 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 55.9k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 56.0k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 32.8k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 24.1k | https://github.com/promptfoo/promptfoo |
-| Opik (Comet) | ⭐ 21.2k | https://github.com/comet-ml/opik |
+| Opik (Comet) | ⭐ 21.3k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 17.5k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | RAGAS | ⭐ 15.2k | https://github.com/explodinggradients/ragas |
@@ -135,18 +135,18 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 1.6k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 554 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 555 | https://github.com/TIGER-AI-Lab/ClawBench |
 | Agent Evaluation (AWS Labs) | ⭐ 370 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 326 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 210 | https://github.com/future-agi/traceAI |
-| Open Bias | ⭐ 137 | https://github.com/open-bias/open-bias |
+| Open Bias | ⭐ 136 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 126 | https://github.com/kubestellar/console |
 | ai-evaluation | ⭐ 118 | https://github.com/future-agi/ai-evaluation |
-| agenttrace | ⭐ 115 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 116 | https://github.com/luoyuctl/agenttrace |
 | ax | ⭐ 93 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 59 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 27 | https://github.com/future-agi/agent-command-center-sdk |
-| whatbroke | ⭐ 15 | https://github.com/arthi-arumugam-git/whatbroke |
+| whatbroke | ⭐ 17 | https://github.com/arthi-arumugam-git/whatbroke |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
