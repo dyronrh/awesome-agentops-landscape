@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-08-11  
+**Last generated:** 2026-08-12  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,9 +114,9 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 56.1k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 56.2k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 32.9k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 24.1k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 24.2k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 21.3k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 17.5k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
@@ -133,20 +133,20 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | LLM Guard | ⭐ 3.2k | https://github.com/protectai/llm-guard |
 | Laminar | ⭐ 3.2k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
-| Future AGI | ⭐ 1.6k | https://github.com/future-agi/future-agi |
+| Future AGI | ⭐ 1.7k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 558 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 560 | https://github.com/TIGER-AI-Lab/ClawBench |
 | Agent Evaluation (AWS Labs) | ⭐ 370 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 328 | https://github.com/monocle2ai/monocle |
-| traceAI | ⭐ 211 | https://github.com/future-agi/traceAI |
-| Open Bias | ⭐ 136 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 126 | https://github.com/kubestellar/console |
+| traceAI | ⭐ 212 | https://github.com/future-agi/traceAI |
+| Open Bias | ⭐ 137 | https://github.com/open-bias/open-bias |
+| KubeStellar | ⭐ 127 | https://github.com/kubestellar/console |
+| agenttrace | ⭐ 118 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 118 | https://github.com/future-agi/ai-evaluation |
-| agenttrace | ⭐ 117 | https://github.com/luoyuctl/agenttrace |
 | ax | ⭐ 93 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 59 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 27 | https://github.com/future-agi/agent-command-center-sdk |
-| whatbroke | ⭐ 17 | https://github.com/arthi-arumugam-git/whatbroke |
+| whatbroke | ⭐ 19 | https://github.com/arthi-arumugam-git/whatbroke |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
