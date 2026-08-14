@@ -7,6 +7,8 @@ A curated, research-driven list of the most relevant AgentOps tools in 2026, cov
 
 ## Weekly Insight
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 “The future of AI is not models, it is systems of agents.”
 
 Each week this repository highlights:
