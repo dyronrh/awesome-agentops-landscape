@@ -614,5 +614,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/ProvablyAI/sourcerykit"
+},
+{
+  "name": "RewardHarness",
+  "category": "open_source",
+  "focus": "Image-editing preference evaluation with a self-evolving library of scoring skills and tools",
+  "official_url": "https://rewardharness.com/",
+  "github_repo": "TIGER-AI-Lab/RewardHarness",
+  "docs_url": "https://github.com/TIGER-AI-Lab/RewardHarness#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/TIGER-AI-Lab/RewardHarness"
 }
 ]
