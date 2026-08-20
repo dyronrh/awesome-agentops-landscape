@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-08-19  
+**Last generated:** 2026-08-20  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 56.7k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 56.8k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 33.4k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 24.4k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 21.5k | https://github.com/comet-ml/opik |
@@ -135,8 +135,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 1.7k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 567 | https://github.com/TIGER-AI-Lab/ClawBench |
-| Agent Evaluation (AWS Labs) | ⭐ 370 | https://github.com/awslabs/agent-evaluation |
+| ClawBench | ⭐ 569 | https://github.com/TIGER-AI-Lab/ClawBench |
+| Agent Evaluation (AWS Labs) | ⭐ 371 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 334 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 213 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 137 | https://github.com/open-bias/open-bias |
