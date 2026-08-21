@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-08-20  
+**Last generated:** 2026-08-21  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,8 +114,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 56.8k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 33.4k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 56.9k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 33.5k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 24.4k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 21.5k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 17.7k | https://github.com/confident-ai/deepeval |
@@ -133,17 +133,17 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | LLM Guard | ⭐ 3.2k | https://github.com/protectai/llm-guard |
 | Laminar | ⭐ 3.2k | https://github.com/lmnr-ai/lmnr |
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
-| Future AGI | ⭐ 1.7k | https://github.com/future-agi/future-agi |
+| Future AGI | ⭐ 1.8k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 569 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 571 | https://github.com/TIGER-AI-Lab/ClawBench |
 | Agent Evaluation (AWS Labs) | ⭐ 371 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 334 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 336 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 213 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 137 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 127 | https://github.com/kubestellar/console |
 | agenttrace | ⭐ 121 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 117 | https://github.com/future-agi/ai-evaluation |
-| ax | ⭐ 95 | https://github.com/Necmttn/ax |
+| ax | ⭐ 98 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 59 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 27 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 19 | https://github.com/arthi-arumugam-git/whatbroke |
