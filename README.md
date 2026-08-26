@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-08-25  
+**Last generated:** 2026-08-26  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,12 +114,12 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 57.2k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 57.3k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 33.7k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 24.5k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 24.6k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 21.6k | https://github.com/comet-ml/opik |
-| DeepEval | ⭐ 17.8k | https://github.com/confident-ai/deepeval |
-| AgentNeo | ⭐ 16.1k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
+| DeepEval | ⭐ 17.9k | https://github.com/confident-ai/deepeval |
+| AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | RAGAS | ⭐ 15.5k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 11.2k | https://github.com/Arize-ai/phoenix |
 | Evidently AI | ⭐ 7.8k | https://github.com/evidentlyai/evidently |
@@ -135,15 +135,15 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 1.8k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 585 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 589 | https://github.com/TIGER-AI-Lab/ClawBench |
 | Agent Evaluation (AWS Labs) | ⭐ 371 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 337 | https://github.com/monocle2ai/monocle |
-| traceAI | ⭐ 213 | https://github.com/future-agi/traceAI |
-| Open Bias | ⭐ 138 | https://github.com/open-bias/open-bias |
+| traceAI | ⭐ 214 | https://github.com/future-agi/traceAI |
+| Open Bias | ⭐ 139 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 127 | https://github.com/kubestellar/console |
 | agenttrace | ⭐ 122 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 117 | https://github.com/future-agi/ai-evaluation |
-| ax | ⭐ 101 | https://github.com/Necmttn/ax |
+| ax | ⭐ 102 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 59 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 27 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 20 | https://github.com/arthi-arumugam-git/whatbroke |
