@@ -594,7 +594,18 @@
   "display_link": "https://github.com/TIGER-AI-Lab/ClawBench"
 },
   {
-    "name": "telemetry.dev",
+  "name": "SandBase Harness",
+  "category": "open_source",
+  "focus": "Local-first agent runtime with sandboxed sessions, MCP governance, credentials, audit & replay",
+  "official_url": "https://github.com/sandbaseai/sandbase-harness",
+  "github_repo": "sandbaseai/sandbase-harness",
+  "docs_url": "https://github.com/sandbaseai/sandbase-harness/blob/main/docs/installation.md",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/sandbaseai/sandbase-harness"
+},
+  {
+  "name": "telemetry.dev",
     "category": "paid",
     "focus": "OpenTelemetry-native tracing for LLM/agent apps; per-span tokens, cost & latency",
     "official_url": "https://telemetry.dev/",

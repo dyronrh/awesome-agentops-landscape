@@ -135,7 +135,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 1.9k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 608 | https://github.com/TIGER-AI-Lab/ClawBench |
+| SandBase Harness | ⭐ 638 | https://github.com/sandbaseai/sandbase-harness |
+| ClawBench | ⭐ 609 | https://github.com/TIGER-AI-Lab/ClawBench |
 | Agent Evaluation (AWS Labs) | ⭐ 371 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 337 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 218 | https://github.com/future-agi/traceAI |
