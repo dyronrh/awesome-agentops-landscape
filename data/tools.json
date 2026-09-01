@@ -614,5 +614,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/ProvablyAI/sourcerykit"
+},
+{
+  "name": "Bifrost",
+  "category": "open_source",
+  "focus": "AI gateway with multi-provider routing, failover, guardrails, MCP gateway support, and observability",
+  "official_url": "https://www.getmaxim.ai/bifrost",
+  "github_repo": "maximhq/bifrost",
+  "docs_url": "https://docs.getbifrost.ai/",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/maximhq/bifrost"
 }
 ]
