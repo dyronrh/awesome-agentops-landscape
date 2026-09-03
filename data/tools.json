@@ -473,6 +473,17 @@
     "display_link": "https://portkey.ai"
   },
   {
+    "name": "XiuRouter",
+    "category": "paid",
+    "focus": "Multi-model API gateway with request-level token, cost and status records",
+    "official_url": "https://router.xiu.ai/",
+    "github_repo": "",
+    "docs_url": "https://docs.xiu.ai/en/router/",
+    "pricing_label": "Usage-based",
+    "pricing_url": "https://router.xiu.ai/en/pricing",
+    "display_link": "https://router.xiu.ai/"
+  },
+  {
     "name": "KubeStellar",
     "category": "open_source",
     "focus": "AI-powered multi-cluster K8s orchestration & agentic dashboard",
