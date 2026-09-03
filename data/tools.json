@@ -614,5 +614,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/ProvablyAI/sourcerykit"
+},
+{
+  "name": "Flowlines",
+  "category": "paid",
+  "focus": "Behavioral observability for production AI agents; detects drift, context loss, repeated failures, and false success",
+  "official_url": "https://flowlines.ai/",
+  "github_repo": "",
+  "docs_url": "https://flowlines.ai/questions",
+  "pricing_label": "Free during early access",
+  "pricing_url": "https://flowlines.ai/request-access",
+  "display_link": "https://flowlines.ai/"
 }
 ]
