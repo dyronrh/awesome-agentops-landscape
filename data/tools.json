@@ -615,15 +615,26 @@
   "pricing_url": "",
   "display_link": "https://github.com/ProvablyAI/sourcerykit"
 },
+{
+  "name": "RewardHarness",
+  "category": "open_source",
+  "focus": "Image-editing preference evaluation with a self-evolving library of scoring skills and tools",
+  "official_url": "https://rewardharness.com/",
+  "github_repo": "TIGER-AI-Lab/RewardHarness",
+  "docs_url": "https://github.com/TIGER-AI-Lab/RewardHarness#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/TIGER-AI-Lab/RewardHarness"
+},
   {
-    "name": "TokenGauge",
-    "category": "open_source",
-    "focus": "Browser-local LLM bill audit, workflow cost ledger, and controlled request-setting tests",
-    "official_url": "https://tokengauge.enby.fish/",
-    "github_repo": "fablgen-agent/tokengauge",
-    "docs_url": "https://github.com/fablgen-agent/tokengauge#readme",
-    "pricing_label": "",
-    "pricing_url": "https://tokengauge.enby.fish/pricing",
-    "display_link": "https://github.com/fablgen-agent/tokengauge"
-  }
+  "name": "Flowlines",
+  "category": "paid",
+  "focus": "Behavioral observability for production AI agents; detects drift, context loss, repeated failures, and false success",
+  "official_url": "https://flowlines.ai/",
+  "github_repo": "",
+  "docs_url": "https://flowlines.ai/questions",
+  "pricing_label": "Free during early access",
+  "pricing_url": "https://flowlines.ai/request-access",
+  "display_link": "https://flowlines.ai/"
+}
 ]
