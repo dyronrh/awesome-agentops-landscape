@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-09-04  
+**Last generated:** 2026-09-05  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 58.0k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 58.1k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 34.2k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 24.8k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 21.8k | https://github.com/comet-ml/opik |
@@ -136,7 +136,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 1.9k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 644 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 649 | https://github.com/TIGER-AI-Lab/ClawBench |
 | SandBase Harness | ⭐ 642 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 372 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 337 | https://github.com/monocle2ai/monocle |
@@ -147,12 +147,13 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | ai-evaluation | ⭐ 119 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 104 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 63 | https://github.com/dunetrace/dunetrace |
-| RewardHarness | ⭐ 37 | https://github.com/TIGER-AI-Lab/RewardHarness |
+| RewardHarness | ⭐ 38 | https://github.com/TIGER-AI-Lab/RewardHarness |
 | agent-command-center-sdk | ⭐ 29 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 20 | https://github.com/arthi-arumugam-git/whatbroke |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
+| agent-watch | ⭐ 0 | https://github.com/soul-sol/agent-watch |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
