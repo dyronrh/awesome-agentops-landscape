@@ -680,5 +680,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/soul-sol/agent-watch"
+},
+{
+  "name": "YYLO Benchmark",
+  "category": "open_source",
+  "focus": "Isolated evaluation layer for agent runs: fresh-repository workspaces, deterministic and/or LLM evaluation profiles, and hash-linked receipts, manifests, and provenance as immutable evidence",
+  "official_url": "https://github.com/yylo-dev/yylo-benchmark",
+  "github_repo": "yylo-dev/yylo-benchmark",
+  "docs_url": "https://github.com/yylo-dev/yylo-benchmark#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/yylo-dev/yylo-benchmark"
 }
 ]
