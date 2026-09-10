@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-09-09  
+**Last generated:** 2026-09-10  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -133,21 +133,21 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | TruLens | ⭐ 3.5k | https://github.com/truera/trulens |
 | Laminar | ⭐ 3.2k | https://github.com/lmnr-ai/lmnr |
 | LLM Guard | ⭐ 3.2k | https://github.com/protectai/llm-guard |
-| OpenLIT | ⭐ 2.7k | https://github.com/openlit/openlit |
+| OpenLIT | ⭐ 2.8k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.0k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 691 | https://github.com/TIGER-AI-Lab/ClawBench |
-| SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
+| ClawBench | ⭐ 704 | https://github.com/TIGER-AI-Lab/ClawBench |
+| SandBase Harness | ⭐ 642 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 372 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 337 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 221 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 142 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 133 | https://github.com/kubestellar/console |
-| agenttrace | ⭐ 130 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 131 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 118 | https://github.com/future-agi/ai-evaluation |
-| ax | ⭐ 106 | https://github.com/Necmttn/ax |
+| ax | ⭐ 107 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 64 | https://github.com/dunetrace/dunetrace |
-| RewardHarness | ⭐ 42 | https://github.com/TIGER-AI-Lab/RewardHarness |
+| RewardHarness | ⭐ 43 | https://github.com/TIGER-AI-Lab/RewardHarness |
 | agent-command-center-sdk | ⭐ 29 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 20 | https://github.com/arthi-arumugam-git/whatbroke |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
