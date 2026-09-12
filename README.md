@@ -192,6 +192,7 @@ Stars updated daily via GitHub Actions.
 | telemetry.dev | 💰 Free tier (10K spans/mo) | https://telemetry.dev |
 | SourceryKit | 💰 — | https://github.com/ProvablyAI/sourcerykit |
 | Flowlines | 💰 Free during early access | https://flowlines.ai/ |
+| Speakeasy | 💰 Custom | https://www.speakeasy.com/product/ai-control-plane |
 <!-- PAID_TABLE:END -->
 
 ---
