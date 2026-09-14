@@ -691,5 +691,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/yylo-dev/yylo-benchmark"
+},
+{
+  "name": "Council of AI GSPC",
+  "category": "open_source",
+  "focus": "Public model and agent measurement with signed evidence cards, content-addressed roots, and offline verification",
+  "official_url": "https://github.com/CSOAI-ORG/councilof-ai",
+  "github_repo": "CSOAI-ORG/councilof-ai",
+  "docs_url": "https://github.com/CSOAI-ORG/councilof-ai#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/CSOAI-ORG/councilof-ai"
 }
 ]
