@@ -691,5 +691,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/yylo-dev/yylo-benchmark"
+},
+{
+  "name": "te-drift-detector",
+  "category": "open_source",
+  "focus": "Lexical drift telemetry for multi-turn agent conversations",
+  "official_url": "https://github.com/hermes-labs-ai/te-drift-detector",
+  "github_repo": "hermes-labs-ai/te-drift-detector",
+  "docs_url": "https://github.com/hermes-labs-ai/te-drift-detector#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/hermes-labs-ai/te-drift-detector"
 }
 ]
