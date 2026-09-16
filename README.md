@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-09-12  
+**Last generated:** 2026-09-15  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,40 +114,40 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 58.6k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 34.5k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 25.0k | https://github.com/promptfoo/promptfoo |
-| Opik (Comet) | ⭐ 21.9k | https://github.com/comet-ml/opik |
-| DeepEval | ⭐ 18.2k | https://github.com/confident-ai/deepeval |
+| LiteLLM | ⭐ 58.8k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 34.6k | https://github.com/langfuse/langfuse |
+| Promptfoo | ⭐ 25.1k | https://github.com/promptfoo/promptfoo |
+| Opik (Comet) | ⭐ 22.0k | https://github.com/comet-ml/opik |
+| DeepEval | ⭐ 18.3k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | RAGAS | ⭐ 15.7k | https://github.com/explodinggradients/ragas |
-| Phoenix (Arize) | ⭐ 11.4k | https://github.com/Arize-ai/phoenix |
-| Bifrost | ⭐ 8.0k | https://github.com/maximhq/bifrost |
+| Phoenix (Arize) | ⭐ 11.5k | https://github.com/Arize-ai/phoenix |
+| Bifrost | ⭐ 8.1k | https://github.com/maximhq/bifrost |
 | Evidently AI | ⭐ 7.9k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.4k | https://github.com/traceloop/openllmetry |
 | Guardrails AI | ⭐ 7.4k | https://github.com/guardrails-ai/guardrails |
 | NeMo Guardrails | ⭐ 7.1k | https://github.com/NVIDIA-NeMo/Guardrails |
-| Helicone | ⭐ 6.1k | https://github.com/Helicone/helicone |
+| Helicone | ⭐ 6.2k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.8k | https://github.com/AgentOps-AI/agentops |
-| Agenta | ⭐ 4.7k | https://github.com/agenta-ai/agenta |
-| TruLens | ⭐ 3.5k | https://github.com/truera/trulens |
-| Laminar | ⭐ 3.2k | https://github.com/lmnr-ai/lmnr |
+| Agenta | ⭐ 4.8k | https://github.com/agenta-ai/agenta |
+| TruLens | ⭐ 3.6k | https://github.com/truera/trulens |
+| Laminar | ⭐ 3.3k | https://github.com/lmnr-ai/lmnr |
 | LLM Guard | ⭐ 3.2k | https://github.com/protectai/llm-guard |
 | OpenLIT | ⭐ 2.8k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.0k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 718 | https://github.com/TIGER-AI-Lab/ClawBench |
-| SandBase Harness | ⭐ 641 | https://github.com/sandbaseai/sandbase-harness |
+| ClawBench | ⭐ 754 | https://github.com/TIGER-AI-Lab/ClawBench |
+| SandBase Harness | ⭐ 646 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 372 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 337 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 338 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 221 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 142 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 133 | https://github.com/kubestellar/console |
-| agenttrace | ⭐ 131 | https://github.com/luoyuctl/agenttrace |
+| KubeStellar | ⭐ 136 | https://github.com/kubestellar/console |
+| agenttrace | ⭐ 133 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 119 | https://github.com/future-agi/ai-evaluation |
-| ax | ⭐ 108 | https://github.com/Necmttn/ax |
+| ax | ⭐ 110 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 64 | https://github.com/dunetrace/dunetrace |
-| RewardHarness | ⭐ 45 | https://github.com/TIGER-AI-Lab/RewardHarness |
+| RewardHarness | ⭐ 47 | https://github.com/TIGER-AI-Lab/RewardHarness |
 | agent-command-center-sdk | ⭐ 29 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 20 | https://github.com/arthi-arumugam-git/whatbroke |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |

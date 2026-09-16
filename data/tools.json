@@ -702,5 +702,16 @@
   "pricing_label": "Custom",
   "pricing_url": "https://www.speakeasy.com/pricing",
   "display_link": "https://www.speakeasy.com/product/ai-control-plane"
+ },
+{
+  "name": "Failproof",
+  "category": "paid",
+  "focus": "Find failures and prevent them in your agents with policies",
+  "official_url": "https://befailproof.ai",
+  "github_repo": "FailproofAI/failproofai",
+  "docs_url": "https://docs.befailproof.ai",
+  "pricing_label": "Free tier (5K runs/month)",
+  "pricing_url": "https://befailproof.ai/pricing/",
+  "display_link": "https://github.com/FailproofAI/failproofai"
 }
 ]
