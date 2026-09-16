@@ -681,7 +681,7 @@
   "pricing_url": "",
   "display_link": "https://github.com/soul-sol/agent-watch"
 },
-{
+  {
   "name": "YYLO Benchmark",
   "category": "open_source",
   "focus": "Isolated evaluation layer for agent runs: fresh-repository workspaces, deterministic and/or LLM evaluation profiles, and hash-linked receipts, manifests, and provenance as immutable evidence",
@@ -692,6 +692,17 @@
   "pricing_url": "",
   "display_link": "https://github.com/yylo-dev/yylo-benchmark"
 },
+{
+  "name": "Speakeasy",
+  "category": "paid",
+  "focus": "Enterprise AI control plane for governing access, policy, and auditability across agents, MCP servers, and Skills",
+  "official_url": "https://www.speakeasy.com/product/ai-control-plane",
+  "github_repo": "",
+  "docs_url": "https://www.speakeasy.com/docs/ai-control-plane",
+  "pricing_label": "Custom",
+  "pricing_url": "https://www.speakeasy.com/pricing",
+  "display_link": "https://www.speakeasy.com/product/ai-control-plane"
+ },
 {
   "name": "Failproof",
   "category": "paid",
