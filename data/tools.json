@@ -724,5 +724,16 @@
   "pricing_label": "Free tier (5K runs/month)",
   "pricing_url": "https://befailproof.ai/pricing/",
   "display_link": "https://github.com/FailproofAI/failproofai"
+},
+{
+  "name": "OrcaReplay",
+  "category": "open_source",
+  "focus": "Offline record & replay of agent-to-provider traffic: reproduce a failed run, diff two runs, or fork the recording onto another model, without contacting the provider",
+  "official_url": "https://github.com/Continuum-AI-Corp/OrcaReplay",
+  "github_repo": "Continuum-AI-Corp/OrcaReplay",
+  "docs_url": "https://github.com/Continuum-AI-Corp/OrcaReplay#readme",
+  "pricing_label": "",
+  "pricing_url": "",
+  "display_link": "https://github.com/Continuum-AI-Corp/OrcaReplay"
 }
 ]
