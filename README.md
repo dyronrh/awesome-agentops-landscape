@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-09-18  
+**Last generated:** 2026-09-19  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -136,14 +136,14 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.8k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.0k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 778 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 786 | https://github.com/TIGER-AI-Lab/ClawBench |
 | SandBase Harness | ⭐ 646 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 373 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 339 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 340 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 221 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 142 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 137 | https://github.com/kubestellar/console |
-| agenttrace | ⭐ 135 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 134 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 119 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 111 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 64 | https://github.com/dunetrace/dunetrace |
