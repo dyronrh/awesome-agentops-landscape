@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-09-20  
+**Last generated:** 2026-09-21  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,14 +114,14 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 59.2k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 34.8k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 59.3k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 34.9k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 25.3k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 22.2k | https://github.com/comet-ml/opik |
-| DeepEval | ⭐ 18.3k | https://github.com/confident-ai/deepeval |
+| DeepEval | ⭐ 18.4k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | RAGAS | ⭐ 15.8k | https://github.com/explodinggradients/ragas |
-| Phoenix (Arize) | ⭐ 11.5k | https://github.com/Arize-ai/phoenix |
+| Phoenix (Arize) | ⭐ 11.6k | https://github.com/Arize-ai/phoenix |
 | Bifrost | ⭐ 8.2k | https://github.com/maximhq/bifrost |
 | Evidently AI | ⭐ 7.9k | https://github.com/evidentlyai/evidently |
 | OpenLLMetry | ⭐ 7.4k | https://github.com/traceloop/openllmetry |
@@ -136,11 +136,11 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.8k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.0k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 799 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 809 | https://github.com/TIGER-AI-Lab/ClawBench |
 | SandBase Harness | ⭐ 648 | https://github.com/sandbaseai/sandbase-harness |
-| Agent Evaluation (AWS Labs) | ⭐ 374 | https://github.com/awslabs/agent-evaluation |
+| Agent Evaluation (AWS Labs) | ⭐ 375 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 340 | https://github.com/monocle2ai/monocle |
-| OrcaReplay | ⭐ 256 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| OrcaReplay | ⭐ 259 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | traceAI | ⭐ 221 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 142 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 137 | https://github.com/kubestellar/console |
