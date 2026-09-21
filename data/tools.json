@@ -735,5 +735,16 @@
   "pricing_label": "",
   "pricing_url": "",
   "display_link": "https://github.com/Continuum-AI-Corp/OrcaReplay"
+},
+{
+  "name": "Jetty",
+  "category": "paid",
+  "focus": "Run agent workloads as runbooks in isolated sandboxes; score every run with evals, checklists and LLM judges",
+  "official_url": "https://jetty.io",
+  "github_repo": "",
+  "docs_url": "https://jetty.io/docs/get-started",
+  "pricing_label": "Free tier (12 runs/mo); $599/mo",
+  "pricing_url": "https://jetty.io/pricing",
+  "display_link": "https://jetty.io"
 }
 ]
