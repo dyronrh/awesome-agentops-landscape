@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-09-23  
+**Last generated:** 2026-09-24  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -136,20 +136,20 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.8k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.1k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 830 | https://github.com/TIGER-AI-Lab/ClawBench |
-| SandBase Harness | ⭐ 650 | https://github.com/sandbaseai/sandbase-harness |
+| ClawBench | ⭐ 838 | https://github.com/TIGER-AI-Lab/ClawBench |
+| SandBase Harness | ⭐ 668 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 375 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 340 | https://github.com/monocle2ai/monocle |
 | OrcaReplay | ⭐ 261 | https://github.com/Continuum-AI-Corp/OrcaReplay |
-| traceAI | ⭐ 221 | https://github.com/future-agi/traceAI |
+| traceAI | ⭐ 222 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 143 | https://github.com/open-bias/open-bias |
-| KubeStellar | ⭐ 137 | https://github.com/kubestellar/console |
+| KubeStellar | ⭐ 138 | https://github.com/kubestellar/console |
 | agenttrace | ⭐ 135 | https://github.com/luoyuctl/agenttrace |
-| ai-evaluation | ⭐ 120 | https://github.com/future-agi/ai-evaluation |
+| ai-evaluation | ⭐ 121 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 112 | https://github.com/Necmttn/ax |
 | Dunetrace | ⭐ 65 | https://github.com/dunetrace/dunetrace |
-| RewardHarness | ⭐ 56 | https://github.com/TIGER-AI-Lab/RewardHarness |
-| agent-command-center-sdk | ⭐ 29 | https://github.com/future-agi/agent-command-center-sdk |
+| RewardHarness | ⭐ 57 | https://github.com/TIGER-AI-Lab/RewardHarness |
+| agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 20 | https://github.com/arthi-arumugam-git/whatbroke |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | YYLO Benchmark | ⭐ 1 | https://github.com/yylo-dev/yylo-benchmark |
@@ -196,6 +196,7 @@ Stars updated daily via GitHub Actions.
 | Flowlines | 💰 Free during early access | https://flowlines.ai/ |
 | Speakeasy | 💰 Custom | https://www.speakeasy.com/product/ai-control-plane |
 | Failproof | 💰 Free tier (5K runs/month) | https://github.com/FailproofAI/failproofai |
+| Jetty | 💰 Free tier (12 runs/mo); $599/mo | https://jetty.io |
 <!-- PAID_TABLE:END -->
 
 ---
