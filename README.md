@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-10-06  
+**Last generated:** 2026-10-07  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,45 +114,45 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 60.2k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 35.4k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 25.7k | https://github.com/promptfoo/promptfoo |
+| LiteLLM | ⭐ 60.3k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 35.5k | https://github.com/langfuse/langfuse |
+| Promptfoo | ⭐ 25.8k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 22.4k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 18.7k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| RAGAS | ⭐ 15.9k | https://github.com/explodinggradients/ragas |
+| RAGAS | ⭐ 16.0k | https://github.com/explodinggradients/ragas |
 | Phoenix (Arize) | ⭐ 11.7k | https://github.com/Arize-ai/phoenix |
 | Bifrost | ⭐ 8.6k | https://github.com/maximhq/bifrost |
 | Evidently AI | ⭐ 8.0k | https://github.com/evidentlyai/evidently |
 | Guardrails AI | ⭐ 7.5k | https://github.com/guardrails-ai/guardrails |
 | OpenLLMetry | ⭐ 7.5k | https://github.com/traceloop/openllmetry |
-| NeMo Guardrails | ⭐ 7.2k | https://github.com/NVIDIA-NeMo/Guardrails |
+| NeMo Guardrails | ⭐ 7.3k | https://github.com/NVIDIA-NeMo/Guardrails |
 | Helicone | ⭐ 6.2k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.9k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.8k | https://github.com/agenta-ai/agenta |
 | TruLens | ⭐ 3.6k | https://github.com/truera/trulens |
-| Laminar | ⭐ 3.3k | https://github.com/lmnr-ai/lmnr |
+| Laminar | ⭐ 3.4k | https://github.com/lmnr-ai/lmnr |
 | LLM Guard | ⭐ 3.2k | https://github.com/protectai/llm-guard |
 | OpenLIT | ⭐ 2.8k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.1k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 957 | https://github.com/TIGER-AI-Lab/ClawBench |
-| SandBase Harness | ⭐ 686 | https://github.com/sandbaseai/sandbase-harness |
+| ClawBench | ⭐ 967 | https://github.com/TIGER-AI-Lab/ClawBench |
+| SandBase Harness | ⭐ 698 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 376 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 340 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 341 | https://github.com/monocle2ai/monocle |
 | OrcaReplay | ⭐ 281 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | traceAI | ⭐ 222 | https://github.com/future-agi/traceAI |
 | Open Bias | ⭐ 143 | https://github.com/open-bias/open-bias |
 | KubeStellar | ⭐ 141 | https://github.com/kubestellar/console |
-| agenttrace | ⭐ 139 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 140 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 127 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 116 | https://github.com/Necmttn/ax |
-| RewardHarness | ⭐ 69 | https://github.com/TIGER-AI-Lab/RewardHarness |
+| RewardHarness | ⭐ 71 | https://github.com/TIGER-AI-Lab/RewardHarness |
 | Dunetrace | ⭐ 68 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 21 | https://github.com/arthi-arumugam-git/whatbroke |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
-| Council of AI GSPC | ⭐ 2 | https://github.com/CSOAI-ORG/councilof-ai |
+| Council of AI GSPC | ⭐ 3 | https://github.com/CSOAI-ORG/councilof-ai |
 | YYLO Benchmark | ⭐ 1 | https://github.com/yylo-dev/yylo-benchmark |
 | te-drift-detector | ⭐ 1 | https://github.com/hermes-labs-ai/te-drift-detector |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
