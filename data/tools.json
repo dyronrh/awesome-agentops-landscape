@@ -292,7 +292,7 @@
     "official_url": "https://langwatch.ai/",
     "github_repo": "langwatch/langwatch",
     "docs_url": "https://docs.langwatch.ai/",
-    "pricing_label": "€59+",
+    "pricing_label": "\u20ac59+",
     "pricing_url": "https://langwatch.ai/pricing",
     "display_link": "https://langwatch.ai"
   },
@@ -768,5 +768,16 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/roy-tong/AgentMeasure"
+  },
+  {
+    "name": "Hivemeld",
+    "category": "paid",
+    "focus": "Hosted platform that runs & coordinates teams of autonomous agents on real company work",
+    "official_url": "https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105",
+    "github_repo": "",
+    "docs_url": "https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105",
+    "pricing_label": "$199/mo",
+    "pricing_url": "https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105",
+    "display_link": "https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105"
   }
 ]
