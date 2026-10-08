@@ -768,5 +768,16 @@
     "pricing_label": "$199/mo",
     "pricing_url": "https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105",
     "display_link": "https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105"
+  },
+  {
+    "name": "Tale",
+    "category": "open_source",
+    "focus": "Shared workspace for configured AI agents with connector-write approvals, token and recorded-cost analytics, and organization audit logs",
+    "official_url": "https://tale.dev",
+    "github_repo": "tale-project/tale",
+    "docs_url": "https://docs.tale.dev/platform/approvals/concepts",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/tale-project/tale"
   }
 ]
