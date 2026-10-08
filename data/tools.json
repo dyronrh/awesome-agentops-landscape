@@ -497,7 +497,7 @@
   {
     "name": "agentcheck",
     "category": "open_source",
-    "focus": "Runtime behavioral governance for AI coding agents \u2014 rule-based guardrails for every tool call",
+    "focus": "Runtime behavioral governance for AI coding agents — rule-based guardrails for every tool call",
     "official_url": "https://paprika-org.github.io/agentcheck/",
     "github_repo": "paprika-org/agentcheck",
     "docs_url": "https://github.com/paprika-org/agentcheck#readme",
@@ -508,7 +508,7 @@
   {
     "name": "agent-bill-guard",
     "category": "open_source",
-    "focus": "Per-session budget enforcement proxy \u2014 terminates runaway LLM agents before costs spiral",
+    "focus": "Per-session budget enforcement proxy — terminates runaway LLM agents before costs spiral",
     "official_url": "https://paprika-org.github.io/agent-bill-guard/",
     "github_repo": "paprika-org/agent-bill-guard",
     "docs_url": "https://github.com/paprika-org/agent-bill-guard#readme",
@@ -757,6 +757,17 @@
     "pricing_label": "Free tier (12 runs/mo); $599/mo",
     "pricing_url": "https://jetty.io/pricing",
     "display_link": "https://jetty.io"
+  },
+  {
+    "name": "AgentMeasure",
+    "category": "open_source",
+    "focus": "Metering conformance standard: audits agent usage/counting semantics with PASS/FAIL/UNPROVABLE verdicts",
+    "official_url": "https://roy-tong.github.io/AgentMeasure/",
+    "github_repo": "roy-tong/AgentMeasure",
+    "docs_url": "https://github.com/roy-tong/AgentMeasure/tree/main/standard",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/roy-tong/AgentMeasure"
   },
   {
     "name": "Hivemeld",
