@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-10-09  
+**Last generated:** 2026-10-10  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,9 +114,9 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 60.5k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 60.9k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 35.6k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 25.8k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 25.9k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 22.5k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 18.7k | https://github.com/confident-ai/deepeval |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
@@ -136,7 +136,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 2.8k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.1k | https://github.com/future-agi/future-agi |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| ClawBench | ⭐ 985 | https://github.com/TIGER-AI-Lab/ClawBench |
+| ClawBench | ⭐ 998 | https://github.com/TIGER-AI-Lab/ClawBench |
 | SandBase Harness | ⭐ 708 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 376 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 341 | https://github.com/monocle2ai/monocle |
@@ -146,8 +146,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | KubeStellar | ⭐ 143 | https://github.com/kubestellar/console |
 | agenttrace | ⭐ 142 | https://github.com/luoyuctl/agenttrace |
 | ai-evaluation | ⭐ 128 | https://github.com/future-agi/ai-evaluation |
-| ax | ⭐ 116 | https://github.com/Necmttn/ax |
-| RewardHarness | ⭐ 74 | https://github.com/TIGER-AI-Lab/RewardHarness |
+| ax | ⭐ 115 | https://github.com/Necmttn/ax |
+| RewardHarness | ⭐ 75 | https://github.com/TIGER-AI-Lab/RewardHarness |
 | Dunetrace | ⭐ 68 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
 | whatbroke | ⭐ 21 | https://github.com/arthi-arumugam-git/whatbroke |
