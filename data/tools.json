@@ -790,5 +790,16 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/aai-labs/agent-barn"
+  },
+  {
+    "name": "AEGIS",
+    "category": "open_source",
+    "focus": "Windows-first local AI-agent monitoring",
+    "official_url": "https://github.com/antropos17/Aegis",
+    "github_repo": "antropos17/Aegis",
+    "docs_url": "https://github.com/antropos17/Aegis/blob/master/docs/README.md",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/antropos17/Aegis"
   }
 ]
