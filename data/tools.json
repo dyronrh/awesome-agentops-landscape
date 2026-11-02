@@ -790,5 +790,16 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/aai-labs/agent-barn"
+  },
+  {
+    "name": "Cognipeer Observability",
+    "category": "open_source",
+    "focus": "Tracing SDKs (TypeScript and Python) for LangChain, LangGraph, OpenAI Agents SDK and OpenTelemetry-instrumented agents; sends traces, tool calls, tokens, cost and latency to Cognipeer Console",
+    "official_url": "https://github.com/Cognipeer/cognipeer-observability",
+    "github_repo": "Cognipeer/cognipeer-observability",
+    "docs_url": "https://docs.cognipeer.com/observability/",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/Cognipeer/cognipeer-observability"
   }
 ]
