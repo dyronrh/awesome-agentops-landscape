@@ -790,5 +790,16 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/aai-labs/agent-barn"
+  },
+  {
+    "name": "Ponder",
+    "category": "open_source",
+    "focus": "Deliberation ledger and convergence gate for coding agents: enforces 100% unit coverage, 4 adversarial lenses, and bounded churn before completion",
+    "official_url": "https://quinnod345.github.io/ponder/",
+    "github_repo": "Quinnod345/ponder",
+    "docs_url": "https://github.com/Quinnod345/ponder#readme",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/Quinnod345/ponder"
   }
 ]
