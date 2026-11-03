@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-02  
+**Last generated:** 2026-11-03  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -116,9 +116,9 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 |------|------|------|
 | LiteLLM | ⭐ 62.6k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 36.9k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 26.7k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 26.8k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 23.1k | https://github.com/comet-ml/opik |
-| DeepEval | ⭐ 19.2k | https://github.com/confident-ai/deepeval |
+| DeepEval | ⭐ 19.3k | https://github.com/confident-ai/deepeval |
 | RAGAS | ⭐ 16.2k | https://github.com/explodinggradients/ragas |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | Phoenix (Arize) | ⭐ 12.1k | https://github.com/Arize-ai/phoenix |
@@ -139,8 +139,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | SandBase Harness | ⭐ 640 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 377 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 345 | https://github.com/monocle2ai/monocle |
-| OrcaReplay | ⭐ 295 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| Monocle2AI | ⭐ 346 | https://github.com/monocle2ai/monocle |
+| OrcaReplay | ⭐ 297 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | traceAI | ⭐ 266 | https://github.com/future-agi/traceAI |
 | AgentMeasure | ⭐ 220 | https://github.com/roy-tong/AgentMeasure |
 | agenttrace | ⭐ 154 | https://github.com/luoyuctl/agenttrace |
