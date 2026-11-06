@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-05  
+**Last generated:** 2026-11-06  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -128,23 +128,23 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLLMetry | ⭐ 7.5k | https://github.com/traceloop/openllmetry |
 | NeMo Guardrails | ⭐ 7.4k | https://github.com/NVIDIA-NeMo/Guardrails |
 | Helicone | ⭐ 6.3k | https://github.com/Helicone/helicone |
-| AgentOps SDK | ⭐ 5.9k | https://github.com/AgentOps-AI/agentops |
+| AgentOps SDK | ⭐ 6.0k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.9k | https://github.com/agenta-ai/agenta |
 | TruLens | ⭐ 3.6k | https://github.com/truera/trulens |
 | Laminar | ⭐ 3.5k | https://github.com/lmnr-ai/lmnr |
 | LLM Guard | ⭐ 3.2k | https://github.com/protectai/llm-guard |
-| OpenLIT | ⭐ 2.9k | https://github.com/openlit/openlit |
+| OpenLIT | ⭐ 3.0k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.3k | https://github.com/future-agi/future-agi |
 | ClawBench | ⭐ 1.2k | https://github.com/TIGER-AI-Lab/ClawBench |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | SandBase Harness | ⭐ 640 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 377 | https://github.com/awslabs/agent-evaluation |
+| OrcaReplay | ⭐ 364 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | Monocle2AI | ⭐ 346 | https://github.com/monocle2ai/monocle |
-| OrcaReplay | ⭐ 343 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | traceAI | ⭐ 266 | https://github.com/future-agi/traceAI |
-| AgentMeasure | ⭐ 219 | https://github.com/roy-tong/AgentMeasure |
+| AgentMeasure | ⭐ 218 | https://github.com/roy-tong/AgentMeasure |
 | agenttrace | ⭐ 154 | https://github.com/luoyuctl/agenttrace |
-| KubeStellar | ⭐ 152 | https://github.com/kubestellar/console |
+| KubeStellar | ⭐ 151 | https://github.com/kubestellar/console |
 | Open Bias | ⭐ 139 | https://github.com/open-bias/open-bias |
 | ai-evaluation | ⭐ 128 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 122 | https://github.com/Necmttn/ax |
