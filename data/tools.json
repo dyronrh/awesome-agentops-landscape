@@ -792,6 +792,17 @@
     "display_link": "https://github.com/aai-labs/agent-barn"
   },
   {
+    "name": "Cognipeer Console",
+    "category": "open_source",
+    "focus": "Self-hosted AI gateway and control plane: OpenAI-compatible LLM routing, agent tracing, guardrails, evaluations, MCP hub and RAG",
+    "official_url": "https://github.com/Cognipeer/console",
+    "github_repo": "Cognipeer/console",
+    "docs_url": "https://docs.cognipeer.com/console/",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/Cognipeer/console"
+     },
+  {
     "name": "AEGIS by 100monkeys.ai",
     "category": "open_source",
     "focus": "Self-hosted agent orchestrator: lifecycle, per-agent network and filesystem policy, isolated runtimes, durable FSM state (AGPL-3.0, in beta)",
