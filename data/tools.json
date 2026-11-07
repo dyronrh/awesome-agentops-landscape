@@ -856,5 +856,16 @@
     "pricing_label": "Free for 2 people; $12/person/mo",
     "pricing_url": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing#pricing",
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
+  },
+  {
+    "name": "Zambo",
+    "category": "paid",
+    "focus": "Verifiable execution receipts and audit trails for agent work",
+    "official_url": "https://zambo.dev",
+    "github_repo": "zambodotdev/zambo-mcp",
+    "docs_url": "https://zambo.dev/mcp",
+    "pricing_label": "Free tier; $0.99 Day Pass",
+    "pricing_url": "https://zambo.dev/day-pass/",
+    "display_link": "https://zambo.dev"
   }
 ]
