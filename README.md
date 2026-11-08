@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-07  
+**Last generated:** 2026-11-08  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -116,17 +116,17 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 |------|------|------|
 | LiteLLM | ⭐ 62.9k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 37.1k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 26.9k | https://github.com/promptfoo/promptfoo |
-| Opik (Comet) | ⭐ 23.2k | https://github.com/comet-ml/opik |
-| DeepEval | ⭐ 19.3k | https://github.com/confident-ai/deepeval |
+| Promptfoo | ⭐ 27.0k | https://github.com/promptfoo/promptfoo |
+| Opik (Comet) | ⭐ 23.3k | https://github.com/comet-ml/opik |
+| DeepEval | ⭐ 19.4k | https://github.com/confident-ai/deepeval |
 | RAGAS | ⭐ 16.3k | https://github.com/explodinggradients/ragas |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | Phoenix (Arize) | ⭐ 12.2k | https://github.com/Arize-ai/phoenix |
 | Bifrost | ⭐ 9.4k | https://github.com/maximhq/bifrost |
-| Evidently AI | ⭐ 8.0k | https://github.com/evidentlyai/evidently |
+| Evidently AI | ⭐ 8.1k | https://github.com/evidentlyai/evidently |
 | Guardrails AI | ⭐ 7.6k | https://github.com/guardrails-ai/guardrails |
 | OpenLLMetry | ⭐ 7.5k | https://github.com/traceloop/openllmetry |
-| NeMo Guardrails | ⭐ 7.4k | https://github.com/NVIDIA-NeMo/Guardrails |
+| NeMo Guardrails | ⭐ 7.5k | https://github.com/NVIDIA-NeMo/Guardrails |
 | Helicone | ⭐ 6.3k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 5.9k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.9k | https://github.com/agenta-ai/agenta |
@@ -138,12 +138,12 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | ClawBench | ⭐ 1.2k | https://github.com/TIGER-AI-Lab/ClawBench |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | SandBase Harness | ⭐ 640 | https://github.com/sandbaseai/sandbase-harness |
-| OrcaReplay | ⭐ 385 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| OrcaReplay | ⭐ 416 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | Agent Evaluation (AWS Labs) | ⭐ 377 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 346 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 345 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 266 | https://github.com/future-agi/traceAI |
 | AgentMeasure | ⭐ 218 | https://github.com/roy-tong/AgentMeasure |
-| AEGIS | ⭐ 159 | https://github.com/antropos17/Aegis |
+| AEGIS | ⭐ 160 | https://github.com/antropos17/Aegis |
 | agenttrace | ⭐ 154 | https://github.com/luoyuctl/agenttrace |
 | KubeStellar | ⭐ 151 | https://github.com/kubestellar/console |
 | Open Bias | ⭐ 139 | https://github.com/open-bias/open-bias |
@@ -155,9 +155,9 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
 | Cognipeer Console | ⭐ 27 | https://github.com/Cognipeer/console |
 | whatbroke | ⭐ 21 | https://github.com/arthi-arumugam-git/whatbroke |
+| Ponder | ⭐ 5 | https://github.com/Quinnod345/ponder |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | Council of AI GSPC | ⭐ 4 | https://github.com/CSOAI-ORG/councilof-ai |
-| Ponder | ⭐ 4 | https://github.com/Quinnod345/ponder |
 | YYLO Benchmark | ⭐ 2 | https://github.com/yylo-dev/yylo-benchmark |
 | te-drift-detector | ⭐ 1 | https://github.com/hermes-labs-ai/te-drift-detector |
 | AEGIS by 100monkeys.ai | ⭐ 1 | https://github.com/100monkeys-ai/aegis-orchestrator |
