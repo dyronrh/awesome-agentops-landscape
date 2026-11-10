@@ -856,5 +856,16 @@
     "pricing_label": "Free for 2 people; $12/person/mo",
     "pricing_url": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing#pricing",
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
+  },
+  {
+    "name": "agentstats",
+    "category": "open_source",
+    "focus": "Run-to-run variance, significance tests and run-count planning from repeated agent-benchmark results; analysis only, not an agent runner.",
+    "official_url": "https://github.com/RishabhPande/agentstats",
+    "github_repo": "RishabhPande/agentstats",
+    "docs_url": "https://github.com/RishabhPande/agentstats",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/RishabhPande/agentstats"
   }
 ]
