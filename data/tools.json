@@ -856,5 +856,16 @@
     "pricing_label": "Free for 2 people; $12/person/mo",
     "pricing_url": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing#pricing",
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
+  },
+  {
+    "name": "Vulnify",
+    "category": "paid",
+    "focus": "Runtime authorization for agent tool calls: each proposed action gets ALLOW, REVIEW (held for human approval) or BLOCK under your policies, with an audit trail",
+    "official_url": "https://www.vulnify.io",
+    "github_repo": "vulnify/vulnify-sdk",
+    "docs_url": "https://docs.vulnify.io",
+    "pricing_label": "Free plan; paid plans",
+    "pricing_url": "https://www.vulnify.io/pricing",
+    "display_link": "https://www.vulnify.io"
   }
 ]
