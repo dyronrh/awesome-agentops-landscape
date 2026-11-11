@@ -792,6 +792,17 @@
     "display_link": "https://github.com/aai-labs/agent-barn"
   },
   {
+    "name": "WebsiteBench",
+    "category": "open_source",
+    "focus": "Evaluates full-stack website reconstruction from browser exploration with native Harbor tasks; complete task artifacts follow the linked HF access process",
+    "official_url": "https://website-bench.com/",
+    "github_repo": "TIGER-AI-Lab/WebsiteBench",
+    "docs_url": "https://github.com/TIGER-AI-Lab/WebsiteBench/blob/main/docs/README.md",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/TIGER-AI-Lab/WebsiteBench"
+      },
+  {
     "name": "Ponder",
     "category": "open_source",
     "focus": "Deliberation ledger and convergence gate for coding agents: enforces 100% unit coverage, 4 adversarial lenses, and bounded churn before completion",
