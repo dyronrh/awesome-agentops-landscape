@@ -867,5 +867,16 @@
     "pricing_label": "Free for 2 people; $12/person/mo",
     "pricing_url": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing#pricing",
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
+  },
+  {
+    "name": "Agnost AI",
+    "category": "paid",
+    "focus": "Online evals on production agent conversations, intent and sentiment, alerts that open fix PRs",
+    "official_url": "https://agnost.ai/",
+    "github_repo": "",
+    "docs_url": "https://docs.agnost.ai/",
+    "pricing_label": "Free / $49/mo / $499/mo",
+    "pricing_url": "https://agnost.ai/#pricing",
+    "display_link": "https://agnost.ai"
   }
 ]
