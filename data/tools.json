@@ -867,5 +867,16 @@
     "pricing_label": "Free for 2 people; $12/person/mo",
     "pricing_url": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing#pricing",
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
+  },
+  {
+    "name": "KeyBark",
+    "category": "paid",
+    "focus": "Spend and leak alerts for OpenAI, Anthropic and OpenRouter API keys: reads each provider's own cost data (no proxy or SDK), emails when a daily/monthly threshold or a spend spike is hit, and searches public GitHub code for the key daily",
+    "official_url": "https://keybark.com/?utm_source=awesome-agentops&utm_medium=listing&utm_campaign=w1&utm_content=agentops-pr",
+    "github_repo": "",
+    "docs_url": "https://keybark.com/guides",
+    "pricing_label": "Free for 1 key; from $12/mo",
+    "pricing_url": "https://keybark.com/#pricing",
+    "display_link": "https://keybark.com/?utm_source=awesome-agentops&utm_medium=listing&utm_campaign=w1&utm_content=agentops-pr"
   }
 ]
