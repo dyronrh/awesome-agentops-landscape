@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-12  
+**Last generated:** 2026-11-13  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -138,16 +138,16 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | ClawBench | ⭐ 1.3k | https://github.com/TIGER-AI-Lab/ClawBench |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
-| OrcaReplay | ⭐ 555 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| OrcaReplay | ⭐ 639 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | Agent Evaluation (AWS Labs) | ⭐ 378 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 346 | https://github.com/monocle2ai/monocle |
-| WebsiteBench | ⭐ 267 | https://github.com/TIGER-AI-Lab/WebsiteBench |
+| Monocle2AI | ⭐ 347 | https://github.com/monocle2ai/monocle |
+| WebsiteBench | ⭐ 318 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | traceAI | ⭐ 266 | https://github.com/future-agi/traceAI |
 | AgentMeasure | ⭐ 219 | https://github.com/roy-tong/AgentMeasure |
 | AEGIS | ⭐ 162 | https://github.com/antropos17/Aegis |
 | agenttrace | ⭐ 155 | https://github.com/luoyuctl/agenttrace |
 | KubeStellar | ⭐ 152 | https://github.com/kubestellar/console |
-| Open Bias | ⭐ 139 | https://github.com/open-bias/open-bias |
+| Open Bias | ⭐ 140 | https://github.com/open-bias/open-bias |
 | ai-evaluation | ⭐ 128 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 123 | https://github.com/Necmttn/ax |
 | Agent Barn | ⭐ 111 | https://github.com/aai-labs/agent-barn |
@@ -157,13 +157,13 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Cognipeer Console | ⭐ 27 | https://github.com/Cognipeer/console |
 | whatbroke | ⭐ 21 | https://github.com/arthi-arumugam-git/whatbroke |
 | Ponder | ⭐ 7 | https://github.com/Quinnod345/ponder |
-| APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | Council of AI GSPC | ⭐ 4 | https://github.com/CSOAI-ORG/councilof-ai |
 | YYLO Benchmark | ⭐ 2 | https://github.com/yylo-dev/yylo-benchmark |
 | te-drift-detector | ⭐ 1 | https://github.com/hermes-labs-ai/te-drift-detector |
 | AEGIS by 100monkeys.ai | ⭐ 1 | https://github.com/100monkeys-ai/aegis-orchestrator |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
+| APort | ⭐ ? | https://github.com/aporthq/aport-integrations |
 | agent-watch | ⭐ 0 | https://github.com/soul-sol/agent-watch |
 | Cognipeer Observability | ⭐ 0 | https://github.com/Cognipeer/cognipeer-observability |
 <!-- OSS_TABLE:END -->
