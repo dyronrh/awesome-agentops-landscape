@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-13  
+**Last generated:** 2026-11-14  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -116,13 +116,13 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 |------|------|------|
 | LiteLLM | ⭐ 63.2k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 37.4k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 27.1k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 27.2k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 23.4k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 19.5k | https://github.com/confident-ai/deepeval |
 | RAGAS | ⭐ 16.3k | https://github.com/explodinggradients/ragas |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
 | Phoenix (Arize) | ⭐ 12.3k | https://github.com/Arize-ai/phoenix |
-| Bifrost | ⭐ 9.5k | https://github.com/maximhq/bifrost |
+| Bifrost | ⭐ 9.6k | https://github.com/maximhq/bifrost |
 | Evidently AI | ⭐ 8.1k | https://github.com/evidentlyai/evidently |
 | Guardrails AI | ⭐ 7.6k | https://github.com/guardrails-ai/guardrails |
 | OpenLLMetry | ⭐ 7.5k | https://github.com/traceloop/openllmetry |
@@ -137,33 +137,33 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Future AGI | ⭐ 2.3k | https://github.com/future-agi/future-agi |
 | ClawBench | ⭐ 1.3k | https://github.com/TIGER-AI-Lab/ClawBench |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
-| OrcaReplay | ⭐ 639 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| OrcaReplay | ⭐ 696 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| SandBase Harness | ⭐ 644 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 378 | https://github.com/awslabs/agent-evaluation |
+| WebsiteBench | ⭐ 362 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | Monocle2AI | ⭐ 347 | https://github.com/monocle2ai/monocle |
-| WebsiteBench | ⭐ 318 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | traceAI | ⭐ 266 | https://github.com/future-agi/traceAI |
 | AgentMeasure | ⭐ 219 | https://github.com/roy-tong/AgentMeasure |
 | AEGIS | ⭐ 162 | https://github.com/antropos17/Aegis |
-| agenttrace | ⭐ 155 | https://github.com/luoyuctl/agenttrace |
+| agenttrace | ⭐ 156 | https://github.com/luoyuctl/agenttrace |
 | KubeStellar | ⭐ 152 | https://github.com/kubestellar/console |
 | Open Bias | ⭐ 140 | https://github.com/open-bias/open-bias |
 | ai-evaluation | ⭐ 128 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 123 | https://github.com/Necmttn/ax |
 | Agent Barn | ⭐ 111 | https://github.com/aai-labs/agent-barn |
 | RewardHarness | ⭐ 106 | https://github.com/TIGER-AI-Lab/RewardHarness |
-| Dunetrace | ⭐ 70 | https://github.com/dunetrace/dunetrace |
+| Dunetrace | ⭐ 71 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
 | Cognipeer Console | ⭐ 27 | https://github.com/Cognipeer/console |
 | whatbroke | ⭐ 21 | https://github.com/arthi-arumugam-git/whatbroke |
 | Ponder | ⭐ 7 | https://github.com/Quinnod345/ponder |
+| APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
 | Council of AI GSPC | ⭐ 4 | https://github.com/CSOAI-ORG/councilof-ai |
 | YYLO Benchmark | ⭐ 2 | https://github.com/yylo-dev/yylo-benchmark |
 | te-drift-detector | ⭐ 1 | https://github.com/hermes-labs-ai/te-drift-detector |
 | AEGIS by 100monkeys.ai | ⭐ 1 | https://github.com/100monkeys-ai/aegis-orchestrator |
 | agentcheck | ⭐ 0 | https://github.com/paprika-org/agentcheck |
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
-| APort | ⭐ ? | https://github.com/aporthq/aport-integrations |
 | agent-watch | ⭐ 0 | https://github.com/soul-sol/agent-watch |
 | Cognipeer Observability | ⭐ 0 | https://github.com/Cognipeer/cognipeer-observability |
 <!-- OSS_TABLE:END -->
