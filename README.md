@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-14  
+**Last generated:** 2026-11-15  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 63.2k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 63.3k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 37.4k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 27.2k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 23.4k | https://github.com/comet-ml/opik |
@@ -130,18 +130,18 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Helicone | ⭐ 6.3k | https://github.com/Helicone/helicone |
 | AgentOps SDK | ⭐ 6.0k | https://github.com/AgentOps-AI/agentops |
 | Agenta | ⭐ 4.9k | https://github.com/agenta-ai/agenta |
-| TruLens | ⭐ 3.6k | https://github.com/truera/trulens |
+| TruLens | ⭐ 3.7k | https://github.com/truera/trulens |
 | Laminar | ⭐ 3.5k | https://github.com/lmnr-ai/lmnr |
 | LLM Guard | ⭐ 3.2k | https://github.com/protectai/llm-guard |
 | OpenLIT | ⭐ 3.1k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.3k | https://github.com/future-agi/future-agi |
 | ClawBench | ⭐ 1.3k | https://github.com/TIGER-AI-Lab/ClawBench |
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| OrcaReplay | ⭐ 696 | https://github.com/Continuum-AI-Corp/OrcaReplay |
-| SandBase Harness | ⭐ 644 | https://github.com/sandbaseai/sandbase-harness |
+| OrcaReplay | ⭐ 746 | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
+| WebsiteBench | ⭐ 407 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | Agent Evaluation (AWS Labs) | ⭐ 378 | https://github.com/awslabs/agent-evaluation |
-| WebsiteBench | ⭐ 362 | https://github.com/TIGER-AI-Lab/WebsiteBench |
-| Monocle2AI | ⭐ 347 | https://github.com/monocle2ai/monocle |
+| Monocle2AI | ⭐ 346 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 266 | https://github.com/future-agi/traceAI |
 | AgentMeasure | ⭐ 219 | https://github.com/roy-tong/AgentMeasure |
 | AEGIS | ⭐ 162 | https://github.com/antropos17/Aegis |
@@ -154,7 +154,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | RewardHarness | ⭐ 106 | https://github.com/TIGER-AI-Lab/RewardHarness |
 | Dunetrace | ⭐ 71 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
-| Cognipeer Console | ⭐ 27 | https://github.com/Cognipeer/console |
+| Cognipeer Console | ⭐ 28 | https://github.com/Cognipeer/console |
 | whatbroke | ⭐ 21 | https://github.com/arthi-arumugam-git/whatbroke |
 | Ponder | ⭐ 7 | https://github.com/Quinnod345/ponder |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
