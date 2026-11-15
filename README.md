@@ -191,6 +191,7 @@ Stars updated daily via GitHub Actions.
 | Langfuse Cloud | 💰 ~$29 | https://langfuse.com |
 | Latitude | 💰 Free trial + usage-based | https://latitude.so |
 | Maxim AI | 💰 Custom | https://www.getmaxim.ai |
+| No Stairs Please MCP | 💰 Free public MCP | https://nostairsplease.com/mcp |
 | Galileo | 💰 From $5K/mo (enterprise) | https://www.rungalileo.io |
 | Okahu Cloud | 💰 Custom | https://www.okahu.ai |
 | Fiddler AI | 💰 Custom | https://www.fiddler.ai |
