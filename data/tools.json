@@ -867,5 +867,16 @@
     "pricing_label": "Free for 2 people; $12/person/mo",
     "pricing_url": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing#pricing",
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
+  },
+  {
+    "name": "npmscan",
+    "category": "paid",
+    "focus": "Hosted MCP server that checks npm packages for vulnerabilities, malware, typosquats and maintainer takeovers before an agent installs them",
+    "official_url": "https://npmscan.com",
+    "github_repo": "",
+    "docs_url": "https://github.com/salemalem/npmscan-mcp-plugin",
+    "pricing_label": "Free (no API key)",
+    "pricing_url": "https://npmscan.com",
+    "display_link": "https://npmscan.com"
   }
 ]
