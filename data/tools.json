@@ -801,7 +801,7 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/TIGER-AI-Lab/WebsiteBench"
-      },
+  },
   {
     "name": "Ponder",
     "category": "open_source",
@@ -812,7 +812,7 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/Quinnod345/ponder"
-      },
+  },
   {
     "name": "Cognipeer Observability",
     "category": "open_source",
@@ -823,7 +823,7 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/Cognipeer/cognipeer-observability"
-      },
+  },
   {
     "name": "Cognipeer Console",
     "category": "open_source",
@@ -834,7 +834,7 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/Cognipeer/console"
-     },
+  },
   {
     "name": "AEGIS by 100monkeys.ai",
     "category": "open_source",
@@ -845,7 +845,7 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/100monkeys-ai/aegis-orchestrator"
-      },
+  },
   {
     "name": "AEGIS",
     "category": "open_source",
@@ -856,7 +856,7 @@
     "pricing_label": "",
     "pricing_url": "",
     "display_link": "https://github.com/antropos17/Aegis"
-     },
+  },
   {
     "name": "Sqwakie",
     "category": "paid",
@@ -867,5 +867,16 @@
     "pricing_label": "Free for 2 people; $12/person/mo",
     "pricing_url": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing#pricing",
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
+  },
+  {
+    "name": "LLMBrake",
+    "category": "open_source",
+    "focus": "In-process per-customer monthly USD budget caps for OpenAI-compatible and Anthropic API calls, with model downgrade near the cap and a hard stop at 100%",
+    "official_url": "https://llmbrake.com",
+    "github_repo": "llmbrake/llmbrake",
+    "docs_url": "https://github.com/llmbrake/llmbrake#readme",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/llmbrake/llmbrake"
   }
 ]
