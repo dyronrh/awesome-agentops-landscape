@@ -869,6 +869,17 @@
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
   },
   {
+    "name": "Agnost AI",
+    "category": "paid",
+    "focus": "Online evals on production agent conversations, intent and sentiment, alerts that open fix PRs",
+    "official_url": "https://agnost.ai/",
+    "github_repo": "",
+    "docs_url": "https://docs.agnost.ai/",
+    "pricing_label": "Free / $49/mo / $499/mo",
+    "pricing_url": "https://agnost.ai/#pricing",
+    "display_link": "https://agnost.ai"
+      },
+  {
     "name": "KeyBark",
     "category": "paid",
     "focus": "Spend and leak alerts for OpenAI, Anthropic and OpenRouter API keys: reads each provider's own cost data (no proxy or SDK), emails when a daily/monthly threshold or a spend spike is hit, and searches public GitHub code for the key daily",
