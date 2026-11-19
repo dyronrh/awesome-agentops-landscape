@@ -869,6 +869,17 @@
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
   },
   {
+    "name": "Standard Compute",
+    "category": "paid",
+    "focus": "LLM gateway with per-request records of model, serving provider and region rule, provider and model allow-lists, and fixed per-key budgets",
+    "official_url": "https://standardcompute.com/",
+    "github_repo": "",
+    "docs_url": "https://docs.standardcompute.com/",
+    "pricing_label": "Free Teams tier; plans from $19/mo per key",
+    "pricing_url": "https://standardcompute.com/pricing",
+    "display_link": "https://standardcompute.com"
+    },
+  {
     "name": "Zambo",
     "category": "paid",
     "focus": "Verifiable execution receipts and audit trails for agent work",
