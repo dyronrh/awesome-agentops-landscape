@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-18  
+**Last generated:** 2026-11-19  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -116,13 +116,13 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 |------|------|------|
 | LiteLLM | ⭐ 63.5k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 37.6k | https://github.com/langfuse/langfuse |
-| Promptfoo | ⭐ 27.4k | https://github.com/promptfoo/promptfoo |
+| Promptfoo | ⭐ 27.5k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 23.5k | https://github.com/comet-ml/opik |
-| DeepEval | ⭐ 19.5k | https://github.com/confident-ai/deepeval |
+| DeepEval | ⭐ 19.6k | https://github.com/confident-ai/deepeval |
 | RAGAS | ⭐ 16.4k | https://github.com/explodinggradients/ragas |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| Phoenix (Arize) | ⭐ 12.3k | https://github.com/Arize-ai/phoenix |
-| Bifrost | ⭐ 9.7k | https://github.com/maximhq/bifrost |
+| Phoenix (Arize) | ⭐ 12.4k | https://github.com/Arize-ai/phoenix |
+| Bifrost | ⭐ 9.8k | https://github.com/maximhq/bifrost |
 | Evidently AI | ⭐ 8.1k | https://github.com/evidentlyai/evidently |
 | Guardrails AI | ⭐ 7.6k | https://github.com/guardrails-ai/guardrails |
 | OpenLLMetry | ⭐ 7.5k | https://github.com/traceloop/openllmetry |
@@ -136,10 +136,10 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | OpenLIT | ⭐ 3.1k | https://github.com/openlit/openlit |
 | Future AGI | ⭐ 2.3k | https://github.com/future-agi/future-agi |
 | ClawBench | ⭐ 1.3k | https://github.com/TIGER-AI-Lab/ClawBench |
-| Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
-| OrcaReplay | ⭐ 957 | https://github.com/Continuum-AI-Corp/OrcaReplay |
-| SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
-| WebsiteBench | ⭐ 528 | https://github.com/TIGER-AI-Lab/WebsiteBench |
+| Weave (W&B) | ⭐ 1.2k | https://github.com/wandb/weave |
+| OrcaReplay | ⭐ 1.0k | https://github.com/Continuum-AI-Corp/OrcaReplay |
+| SandBase Harness | ⭐ 642 | https://github.com/sandbaseai/sandbase-harness |
+| WebsiteBench | ⭐ 542 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | Agent Evaluation (AWS Labs) | ⭐ 377 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 346 | https://github.com/monocle2ai/monocle |
 | traceAI | ⭐ 266 | https://github.com/future-agi/traceAI |
@@ -151,7 +151,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | ai-evaluation | ⭐ 129 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 123 | https://github.com/Necmttn/ax |
 | Agent Barn | ⭐ 111 | https://github.com/aai-labs/agent-barn |
-| RewardHarness | ⭐ 108 | https://github.com/TIGER-AI-Lab/RewardHarness |
+| RewardHarness | ⭐ 109 | https://github.com/TIGER-AI-Lab/RewardHarness |
 | Dunetrace | ⭐ 71 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
 | Cognipeer Console | ⭐ 28 | https://github.com/Cognipeer/console |
@@ -166,6 +166,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | agent-bill-guard | ⭐ 0 | https://github.com/paprika-org/agent-bill-guard |
 | agent-watch | ⭐ 0 | https://github.com/soul-sol/agent-watch |
 | Cognipeer Observability | ⭐ 0 | https://github.com/Cognipeer/cognipeer-observability |
+| agentstats | ⭐ 0 | https://github.com/RishabhPande/agentstats |
 <!-- OSS_TABLE:END -->
 
 Stars updated daily via GitHub Actions.
@@ -208,6 +209,11 @@ Stars updated daily via GitHub Actions.
 | Jetty | 💰 Free tier (12 runs/mo); $599/mo | https://jetty.io |
 | Hivemeld | 💰 $199/mo | https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105 |
 | Sqwakie | 💰 Free for 2 people; $12/person/mo | https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing |
+| Agnost AI | 💰 Free / $49/mo / $499/mo | https://agnost.ai |
+| KeyBark | 💰 Free for 1 key; from $12/mo | https://keybark.com/?utm_source=awesome-agentops&utm_medium=listing&utm_campaign=w1&utm_content=agentops-pr |
+| Vulnify | 💰 Free plan; paid plans | https://www.vulnify.io |
+| Standard Compute | 💰 Free Teams tier; plans from $19/mo per key | https://standardcompute.com |
+| Zambo | 💰 Free tier; $0.99 Day Pass | https://zambo.dev |
 <!-- PAID_TABLE:END -->
 
 ---
