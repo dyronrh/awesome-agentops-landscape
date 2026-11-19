@@ -1,5 +1,16 @@
 [
   {
+    "name": "EvalShift",
+    "category": "open_source",
+    "focus": "Replays recorded agent runs on the current and a candidate model to catch tool-call, output and cost regressions before a model switch",
+    "official_url": "https://www.evalshift.dev/",
+    "github_repo": "evalshift/evalshift-cli",
+    "docs_url": "https://github.com/evalshift/evalshift-cli#readme",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/evalshift/evalshift-cli"
+  },
+  {
     "name": "Langfuse",
     "category": "open_source",
     "focus": "Tracing & analytics",
