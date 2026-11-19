@@ -869,6 +869,17 @@
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
   },
   {
+    "name": "agentstats",
+    "category": "open_source",
+    "focus": "Run-to-run variance, significance tests and run-count planning from repeated agent-benchmark results; analysis only, not an agent runner.",
+    "official_url": "https://github.com/RishabhPande/agentstats",
+    "github_repo": "RishabhPande/agentstats",
+    "docs_url": "https://github.com/RishabhPande/agentstats",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/RishabhPande/agentstats"
+     },
+  {
     "name": "Vulnify",
     "category": "paid",
     "focus": "Runtime authorization for agent tool calls: each proposed action gets ALLOW, REVIEW (held for human approval) or BLOCK under your policies, with an audit trail",
