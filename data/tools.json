@@ -869,6 +869,17 @@
     "display_link": "https://sqwakie.si/?utm_source=awesome-agentops-landscape&utm_medium=listing"
   },
   {
+    "name": "Vulnify",
+    "category": "paid",
+    "focus": "Runtime authorization for agent tool calls: each proposed action gets ALLOW, REVIEW (held for human approval) or BLOCK under your policies, with an audit trail",
+    "official_url": "https://www.vulnify.io",
+    "github_repo": "vulnify/vulnify-sdk",
+    "docs_url": "https://docs.vulnify.io",
+    "pricing_label": "Free plan; paid plans",
+    "pricing_url": "https://www.vulnify.io/pricing",
+    "display_link": "https://www.vulnify.io"
+      },
+  {
     "name": "Standard Compute",
     "category": "paid",
     "focus": "LLM gateway with per-request records of model, serving provider and region rule, provider and model allow-lists, and fixed per-key budgets",
