@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-19  
+**Last generated:** 2026-11-20  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,8 +114,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 63.5k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 37.6k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 63.6k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 37.7k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 27.5k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 23.5k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 19.6k | https://github.com/confident-ai/deepeval |
@@ -138,27 +138,27 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | ClawBench | ⭐ 1.3k | https://github.com/TIGER-AI-Lab/ClawBench |
 | Weave (W&B) | ⭐ 1.2k | https://github.com/wandb/weave |
 | OrcaReplay | ⭐ 1.0k | https://github.com/Continuum-AI-Corp/OrcaReplay |
-| SandBase Harness | ⭐ 642 | https://github.com/sandbaseai/sandbase-harness |
-| WebsiteBench | ⭐ 542 | https://github.com/TIGER-AI-Lab/WebsiteBench |
+| SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
+| WebsiteBench | ⭐ 558 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | Agent Evaluation (AWS Labs) | ⭐ 377 | https://github.com/awslabs/agent-evaluation |
-| Monocle2AI | ⭐ 346 | https://github.com/monocle2ai/monocle |
-| traceAI | ⭐ 266 | https://github.com/future-agi/traceAI |
+| Monocle2AI | ⭐ 345 | https://github.com/monocle2ai/monocle |
+| traceAI | ⭐ 267 | https://github.com/future-agi/traceAI |
 | AgentMeasure | ⭐ 220 | https://github.com/roy-tong/AgentMeasure |
 | AEGIS | ⭐ 162 | https://github.com/antropos17/Aegis |
 | agenttrace | ⭐ 157 | https://github.com/luoyuctl/agenttrace |
 | KubeStellar | ⭐ 155 | https://github.com/kubestellar/console |
 | Open Bias | ⭐ 140 | https://github.com/open-bias/open-bias |
 | ai-evaluation | ⭐ 129 | https://github.com/future-agi/ai-evaluation |
-| ax | ⭐ 123 | https://github.com/Necmttn/ax |
+| ax | ⭐ 124 | https://github.com/Necmttn/ax |
 | Agent Barn | ⭐ 111 | https://github.com/aai-labs/agent-barn |
 | RewardHarness | ⭐ 109 | https://github.com/TIGER-AI-Lab/RewardHarness |
-| Dunetrace | ⭐ 71 | https://github.com/dunetrace/dunetrace |
+| Dunetrace | ⭐ 73 | https://github.com/dunetrace/dunetrace |
 | agent-command-center-sdk | ⭐ 30 | https://github.com/future-agi/agent-command-center-sdk |
 | Cognipeer Console | ⭐ 28 | https://github.com/Cognipeer/console |
 | whatbroke | ⭐ 21 | https://github.com/arthi-arumugam-git/whatbroke |
 | Ponder | ⭐ 7 | https://github.com/Quinnod345/ponder |
+| Council of AI GSPC | ⭐ 5 | https://github.com/CSOAI-ORG/councilof-ai |
 | APort | ⭐ 4 | https://github.com/aporthq/aport-integrations |
-| Council of AI GSPC | ⭐ 4 | https://github.com/CSOAI-ORG/councilof-ai |
 | YYLO Benchmark | ⭐ 2 | https://github.com/yylo-dev/yylo-benchmark |
 | te-drift-detector | ⭐ 1 | https://github.com/hermes-labs-ai/te-drift-detector |
 | AEGIS by 100monkeys.ai | ⭐ 1 | https://github.com/100monkeys-ai/aegis-orchestrator |
