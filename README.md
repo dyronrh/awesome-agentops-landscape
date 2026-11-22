@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-21  
+**Last generated:** 2026-11-22  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -139,10 +139,10 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Weave (W&B) | ⭐ 1.2k | https://github.com/wandb/weave |
 | OrcaReplay | ⭐ 1.1k | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
-| WebsiteBench | ⭐ 590 | https://github.com/TIGER-AI-Lab/WebsiteBench |
+| WebsiteBench | ⭐ 630 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | Agent Evaluation (AWS Labs) | ⭐ 377 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 345 | https://github.com/monocle2ai/monocle |
-| traceAI | ⭐ 267 | https://github.com/future-agi/traceAI |
+| traceAI | ⭐ 268 | https://github.com/future-agi/traceAI |
 | AgentMeasure | ⭐ 220 | https://github.com/roy-tong/AgentMeasure |
 | AEGIS | ⭐ 162 | https://github.com/antropos17/Aegis |
 | agenttrace | ⭐ 157 | https://github.com/luoyuctl/agenttrace |
