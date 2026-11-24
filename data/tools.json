@@ -933,5 +933,16 @@
     "pricing_label": "Free tier; $0.99 Day Pass",
     "pricing_url": "https://zambo.dev/day-pass/",
     "display_link": "https://zambo.dev"
+  },
+  {
+    "name": "Excellent for Mac",
+    "category": "paid",
+    "focus": "Local visibility into coding-agent logs and findings, with optional live checks for selected actions in supported agents",
+    "official_url": "https://www.excellent.so/",
+    "github_repo": "",
+    "docs_url": "https://www.excellent.so/docs",
+    "pricing_label": "Free manual scans; Pro from $6/mo (US)",
+    "pricing_url": "https://www.excellent.so/pricing",
+    "display_link": "https://www.excellent.so/"
   }
 ]
