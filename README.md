@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-25  
+**Last generated:** 2026-11-26  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,8 +114,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 63.9k | https://github.com/BerriAI/litellm |
-| Langfuse | ⭐ 37.8k | https://github.com/langfuse/langfuse |
+| LiteLLM | ⭐ 64.0k | https://github.com/BerriAI/litellm |
+| Langfuse | ⭐ 37.9k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 27.7k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 23.5k | https://github.com/comet-ml/opik |
 | DeepEval | ⭐ 19.7k | https://github.com/confident-ai/deepeval |
@@ -138,7 +138,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | ClawBench | ⭐ 1.4k | https://github.com/TIGER-AI-Lab/ClawBench |
 | OrcaReplay | ⭐ 1.2k | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | Weave (W&B) | ⭐ 1.2k | https://github.com/wandb/weave |
-| WebsiteBench | ⭐ 746 | https://github.com/TIGER-AI-Lab/WebsiteBench |
+| WebsiteBench | ⭐ 787 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 377 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 345 | https://github.com/monocle2ai/monocle |
