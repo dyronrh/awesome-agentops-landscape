@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-11-26  
+**Last generated:** 2026-11-27  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -121,8 +121,8 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | DeepEval | ⭐ 19.7k | https://github.com/confident-ai/deepeval |
 | RAGAS | ⭐ 16.4k | https://github.com/explodinggradients/ragas |
 | AgentNeo | ⭐ 16.2k | https://github.com/raga-ai-hub/RagaAI-Catalyst |
-| Phoenix (Arize) | ⭐ 12.4k | https://github.com/Arize-ai/phoenix |
-| Bifrost | ⭐ 10.0k | https://github.com/maximhq/bifrost |
+| Phoenix (Arize) | ⭐ 12.5k | https://github.com/Arize-ai/phoenix |
+| Bifrost | ⭐ 10.1k | https://github.com/maximhq/bifrost |
 | Evidently AI | ⭐ 8.1k | https://github.com/evidentlyai/evidently |
 | Guardrails AI | ⭐ 7.6k | https://github.com/guardrails-ai/guardrails |
 | NeMo Guardrails | ⭐ 7.6k | https://github.com/NVIDIA-NeMo/Guardrails |
@@ -138,12 +138,12 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | ClawBench | ⭐ 1.4k | https://github.com/TIGER-AI-Lab/ClawBench |
 | OrcaReplay | ⭐ 1.2k | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | Weave (W&B) | ⭐ 1.2k | https://github.com/wandb/weave |
-| WebsiteBench | ⭐ 787 | https://github.com/TIGER-AI-Lab/WebsiteBench |
+| WebsiteBench | ⭐ 810 | https://github.com/TIGER-AI-Lab/WebsiteBench |
 | SandBase Harness | ⭐ 643 | https://github.com/sandbaseai/sandbase-harness |
 | Agent Evaluation (AWS Labs) | ⭐ 377 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 345 | https://github.com/monocle2ai/monocle |
-| traceAI | ⭐ 267 | https://github.com/future-agi/traceAI |
-| AgentMeasure | ⭐ 220 | https://github.com/roy-tong/AgentMeasure |
+| traceAI | ⭐ 268 | https://github.com/future-agi/traceAI |
+| AgentMeasure | ⭐ 221 | https://github.com/roy-tong/AgentMeasure |
 | AEGIS | ⭐ 162 | https://github.com/antropos17/Aegis |
 | agenttrace | ⭐ 157 | https://github.com/luoyuctl/agenttrace |
 | KubeStellar | ⭐ 155 | https://github.com/kubestellar/console |
