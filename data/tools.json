@@ -933,5 +933,16 @@
     "pricing_label": "Free tier; $0.99 Day Pass",
     "pricing_url": "https://zambo.dev/day-pass/",
     "display_link": "https://zambo.dev"
+  },
+  {
+    "name": "Lake",
+    "category": "open_source",
+    "focus": "Plan approval and per-run cost caps for coding agents: a teammate approves the agent's plan, with a cost range per step, before it runs",
+    "official_url": "https://getlake.dev/",
+    "github_repo": "getlake/lake-gate",
+    "docs_url": "https://github.com/getlake/lake-gate#readme",
+    "pricing_label": "",
+    "pricing_url": "https://getlake.dev/pricing/",
+    "display_link": "https://github.com/getlake/lake-gate"
   }
 ]
